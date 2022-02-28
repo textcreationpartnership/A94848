@@ -1,0 +1,763 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salve for the sufferings of the loyall party. A lecture unto London : and an expostulation with the present Parliament, in a theologicall tract, grounded upon the words of the prophet, Amos 3.6. Shall there bee evill in a city and the Lord hath not done it? Expounded and applyed unto these times: / by J.K.D.T.</title>
+            <author>J.K.D.T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94848</idno>
+            <idno type="STC">Wing T22</idno>
+            <idno type="STC">Thomason E433_16</idno>
+            <idno type="STC">ESTC R203700</idno>
+            <idno type="EEBO-CITATION">99863556</idno>
+            <idno type="PROQUEST">99863556</idno>
+            <idno type="VID">115761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115761)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salve for the sufferings of the loyall party. A lecture unto London : and an expostulation with the present Parliament, in a theologicall tract, grounded upon the words of the prophet, Amos 3.6. Shall there bee evill in a city and the Lord hath not done it? Expounded and applyed unto these times: / by J.K.D.T.</title>
+                  <author>J.K.D.T.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 23 1647"; 8 in imprint date crossed out and replaced with "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Amos III, 6 --  Extra-canonical parallels --  Early works to 1800.</term>
+               <term>Theodicy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115761:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Salve for the Sufferings</hi> OF THE LOYALL PARTY.</p>
+            <p>A Lecture unto London: And an Expoſtulation with the preſent Parlia<g ref="char:EOLhyphen"/>ment, in a Theologicall Tract, grounded upon the words of the Prophet,</p>
+            <q>
+               <bibl>
+                  <hi>Amos 3.6.</hi>
+               </bibl>
+               <p>Shall there bee evill in a City and the Lord hath not done it?</p>
+            </q>
+            <p>
+               <hi>Expounded and applyed unto theſe times:</hi>
+            </p>
+            <p>By J. K. D. T.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 94.20.</hi>
+               </bibl>
+               <p>Shall the Throne of Iniquity have fellowſhip with thee, which frameth miſchiefe by a Law?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ez. 18.25.</hi>
+               </bibl>
+               <p>Heare now O houſe of Iſrael, Is not my way equall? are not your wayes unequall?</p>
+            </q>
+            <q>Qui poteſt obviare, &amp; perturbare perverſos, &amp; non facit, nihil eſt aliud quàm favere impietati eorum, nec caret ſcrupulo ſocietatis occultae, qui manifeſto facinori deſinit obviare. Anaſtatius ſe<g ref="char:EOLhyphen"/>cundus, Epiſtolâ ad Anaſtatium Auguſtum.</q>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:115761:2"/>
+            <pb facs="tcp:115761:2"/>
+            <head>THE ARGVMENT.</head>
+            <p>Motives unto, and the ſubject matters of this Tract are:</p>
+            <p>FIrſt, The <hi>Vindication</hi> of the moſt holy and juſt <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> of God in the acts of ſin, from the crude and im<g ref="char:EOLhyphen"/>pious impoſtures of the fathers of that falſe, yet current Religion of theſe times; who from the Preſſe and Pulpit, by the <hi>Grant and Plea of Gods permiſſion,</hi> would priviledge and inveſt the damnable doctrines, and actions of theſe times, with the <hi>ſacred warranty of Truth and Piety;</hi> Thus perver<g ref="char:EOLhyphen"/>ting the righteous wayes of God and (with <hi>Balaam</hi>) for the <hi>wages of iniquity, putting a ſtumbling blocke before their Brethren.</hi>
+            </p>
+            <p>A ſecond is to reſcue from the Malignity of this doctrine, and counter ballance ſuch as are (either through the <hi>infirmity of their judgements,</hi> or <hi>condeſcention</hi> unto temporall <hi>Inte<g ref="char:EOLhyphen"/>reſts</hi>) apt to be overpoized with the ſeeming advantages of the outward and preſent ſucceſſes of ſinfull men; which are but the naturall products of their owne ſinnes in the puniſhments of them.</p>
+            <p>For Conviction of the firſt, It Will be cleared, that <hi>Gods permiſſion</hi> unto the power and <hi>Will</hi> of man, the <hi>Adminiſtra<g ref="char:EOLhyphen"/>tion of Arguments and opportunities,</hi> and <hi>Gods concourſe</hi> (as unto a <hi>Naturall ability</hi>) with acts of ſin, no way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s inferres his <hi>Approbation,</hi> or makes him the <hi>Author</hi> thereof: But that <hi>Gods permiſſion</hi> unto ſinfull acts, implyes puniſhment, in the <hi>Dereliction of Grace,</hi> and the aſſiſtance thereof, by the non-intervenience of more powerfull impediments unto ſinne, ſo that ſucceſſes in unwarrantable and wicked undertakings (ſuch are thoſe of theſe times,) amount not unto bleſſiings, but are pu<g ref="char:EOLhyphen"/>niſhments for ſin, and meer curſes unto them that obtaine them.</p>
+            <p>That God hath an Over-ruling power in the ſinfull actions of men, in the <hi>direction</hi> of them upon what <hi>object,</hi> and that <hi>end</hi> he (onely) is (not they) pleaſed, and the <hi>limitation</hi> of them, for
+<pb facs="tcp:115761:3"/>their <hi>extent</hi> and <hi>continuance,</hi> ſo that wherein men deale proudly God will be above them.</p>
+            <p>For the information of the ſecond ſort of people, diviſible in<g ref="char:EOLhyphen"/>to two Claſſes: As unto the firſt of theſe troubled with a ſpiri<g ref="char:EOLhyphen"/>tuall <hi>weakneſſe of Concoction,</hi> in that they cannot happily di<g ref="char:EOLhyphen"/>ſtribute and dig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt their late ſufferings in the beſt cauſe [their Loyalty unto Gods Anoynted] but like thoſe Novices in Gods ſchoole, cry out, there is <hi>death in the pott, and have taken a ſin feit of their ſufferings,</hi> we have caſt <hi>meale</hi> into their Meſſe, and ſhew them that there is no barme in it, but that it will prove wholeſome food for their ſoules: that the evils of their late pu<g ref="char:EOLhyphen"/>niſhments by Warre, pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceed from the evils of their owne ſins, for which God denyed ſucceſſe unto ſo juſt a cauſe (as hee did unto the Iſraelites againſt the Benjamites:) Some <hi>divine and ap<g ref="char:EOLhyphen"/>proved Receipts</hi> are preſcribed medicines unto the Maladies <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owing hence.</p>
+            <p>As for thoſe of the laſt and loweſt Claſſe, who are wholy ſeized with, and ſized by their owne narrow <hi>Intereſts</hi> who have not yet themſelves felt the fury of Warre, (although they did largely contribute to bring it upon others,) especially the Inha<g ref="char:EOLhyphen"/>bitants of this City, unto them <hi>ſuddaine Repentance</hi> from ſome noted ſins, is propounded <hi>the onely expedient,</hi> to prevent thoſe calamities which (not onely probable conjectures and politicall prognoſtiques, but) parallell divine reſemblances from like ſins (noted by our Prophet in Samaria, puniſhed by Warre) fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell impending.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115761:3"/>
+            <epigraph>
+               <q>
+                  <p>Shall there be evill in a City, and the Lord hath not done it?</p>
+                  <bibl>
+                     <hi>Amos, 3.6.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE precedent part of this Chap<g ref="char:EOLhyphen"/>ter, containes a denunciation of the Judgements eminent upon the Kingdome of Iſraell, ampli<g ref="char:EOLhyphen"/>fied from their cauſe, their Ini<g ref="char:EOLhyphen"/>quities, which receive their ag<g ref="char:EOLhyphen"/>gravation from Gods peculiar favour unto them; the neglect whereof brings the more numerous and horrid pu<g ref="char:EOLhyphen"/>niſhments upon them. v. 2. You only have I knowne (<hi>i. e.</hi> ſelected) of all the Families of the Earth; there<g ref="char:EOLhyphen"/>fore I will puniſh you for all your iniquities; the pro<g ref="char:EOLhyphen"/>per effects of which iniquities and ſins are a diſtance and ſeperation betweene God and them, v. 3. and the inevitability of the judgements impending on them, from the already paſt publication of them: For as a Lyon will not roare untill he be ſeized of his prey, and as a Fowler will not remove his Net untill he have ta<g ref="char:EOLhyphen"/>ken ſome Game; no more would God ſo publickly denounce theſe judgements by his Prophets, if he had not abſolutely determined them, and were even now upon the actuall execution of them, v. 4.5. whence the Prophet labours to ſeize them with the terrour of them, that as a Trumpet cannot be blowne in a City,
+<pb facs="tcp:115761:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:115761:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:115761:5"/>but it will beget admiration, feare, and concourſe; ſo the denuntiation of theſe judgements by Gods Pro<g ref="char:EOLhyphen"/>phets, (being to be referred unto God as their cauſe) ſhould procure their terrour and horrour; for, <hi>Shall there be evill in a City, and the Lord hath not done it?</hi>
+            </p>
+            <p>The context informes us that where God placeth the greateſt benefits, he expects the greateſt obedi<g ref="char:EOLhyphen"/>ence, and will puniſh the defects thereof with the greateſt puniſhments.</p>
+            <p>That ſin begets a diſagreement, and diſtance with God.</p>
+            <p>That God denounceth greater judgements, before he executeth them:</p>
+            <p>That the ſolemne denunciation of them, is to pro<g ref="char:EOLhyphen"/>cure our ſeare, and application in them unto God, as their Originall.</p>
+            <p>The words are an emphaticall and expreſſe anſwer unto a doubt, or the ſolution of a queſtion, anticipa<g ref="char:EOLhyphen"/>ted and reſolved by way of Interrogation; <hi>Shall there be co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll in a City, and the Lord hath not done it?</hi>
+            </p>
+            <p>That is, there is not any evill whatſoever happe<g ref="char:EOLhyphen"/>neth in a City which the Lord hath not done.</p>
+            <p>The words in their intire conſideration preſent un<g ref="char:EOLhyphen"/>to us this ſingle Theologicall Axiome or divine truth, the due limitations thereof alwayes admitted.</p>
+            <p>That there is no evill happeneth, even in a City, which the Lord hath not done. For the direct expli<g ref="char:EOLhyphen"/>cation whereof wee muſt enquire: 1. What evill is? Secondly, How God is ſaid to doe evill? Third<g ref="char:EOLhyphen"/>ly, Why to doe it in a City?</p>
+            <p>Firſt, what this evill is? There is a twofold evill mentioned in Scripture; the firſt is <hi>malum culpae,</hi> the
+<pb n="3" facs="tcp:115761:5"/>evill of ſin or offence: Secondly, <hi>malum pena,</hi> the e<g ref="char:EOLhyphen"/>vill of puniſhment.</p>
+            <p>There is the evill of ſinne or offence;<note place="margin">Deut. 13.5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> for ſin (be<g ref="char:EOLhyphen"/>ing an Abberration from the Rule, which is the equi<g ref="char:EOLhyphen"/>ty preconceived in the minde of God, and expreſſed unto the minde of man by a Law, according unto which, (in regard of Gods Dominion over man being his Creature) it is fit he frame his life, and therefore defined <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a tranſgreſſion of the Law) is an evill in regard that it is an averſion or turning from the <hi>ſum<g ref="char:EOLhyphen"/>mum bonum,</hi>
+               <note place="margin">1 Joh: 3.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and chiefe good God, and a converſion or turning unto the <hi>minus bonum,</hi> and leſſe good the Creature.</p>
+            <p>Secondly, ſin is tearmed an evill becauſe there ac<g ref="char:EOLhyphen"/>companieth it, <hi>macula,</hi> a ſteine,<note place="margin">Eſay. 59.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> a defect of the inward beauty of the ſoule,<note place="margin">Ez. 16.4.</note> and want of ſpirituall comlineſſe of grace, exiled by the admiſſion of ſin, which effect<g ref="char:EOLhyphen"/>ing a diſtance betweene God and the ſoule, he remo<g ref="char:EOLhyphen"/>veth the beauty of grace from it, and the ſteine and deformity of ſin ſucceeds, by this privation and ab<g ref="char:EOLhyphen"/>ſence of grace, and the ſuperinduction of evill, in which ſence is it, that ſin is tearmed in Scripture a fil<g ref="char:EOLhyphen"/>thineſſe,<note place="margin">Prov. 30.12;</note> uncleaneſſe, corruption from the many vile and ugly effects thereof.<note place="margin">2 Cor. 7.1.</note> And unto this <hi>macula,</hi>
+               <note place="margin">Zek. 13.1.</note> or ſteine of ſinne there is <hi>reatus,</hi>
+               <note place="margin">Gal. 6.8.</note> the guilt alwayes atten<g ref="char:EOLhyphen"/>dant,<note place="margin">2 Pet. 2.12.</note> and this ſtrongly draggs on <hi>malum pena,</hi> the evill of puniſhment.</p>
+            <p>The ſecond evill of ſin, puniſhment,<note place="margin">2 Sam. 17.14.</note> which is inſe<g ref="char:EOLhyphen"/>perable from,<note place="margin">1 King. 21.29.</note> and doth ever lacquie it unto guilt, for evill pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſueth ſinners, <hi>Prov.</hi> 13.21. that is puniſhment. In the words the evill of puniſhment is principally in<g ref="char:EOLhyphen"/>tended; but the evill of ſinne and puniſhment are ſo
+<pb n="4" facs="tcp:115761:6"/>interwoven, that not without great difficulty can the one be conſidered without the other, being like <hi>Gemi<g ref="char:EOLhyphen"/>ni</hi> inſeperable twins, the next quere therefore will be,</p>
+            <p>How God is ſayd to doe both theſe evills, the evill of ſinne, and the evill of puniſhment. Firſt, of Gods doing the evill of ſinne:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ab. 1.13.</note> Almighty God is light in whom is no darkeneſſe, his pure eyes cannot behold iniquities (that is) in the leaſt wiſe to approve thereof, much leſſe to conſent thereunto, and leaſt of all to doe or act ſinne; for being the chiefe good, and immuta<g ref="char:EOLhyphen"/>ble,<note place="margin">1 Joh. 3.5.</note> and immoveable, he can have no ſince: Yet is God in dive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s places of holy Scripture ſaid to doe the evill of ſinne:<note place="margin">2 Chron. 11.4.</note> The Rebellion of the ten Tribes a<g ref="char:EOLhyphen"/>gainſt the houſe of <hi>David;</hi>
+               <note place="margin">1 Sam. 16 10.</note> 
+               <hi>Abſolons</hi> unnaturall Trea<g ref="char:EOLhyphen"/>ſons,<note place="margin">Gen. 45.5.</note> and abominable inceſts; the cruell ſale of <hi>Io<g ref="char:EOLhyphen"/>ſeph</hi> by his Brethren,<note place="margin">Pſal. 105.25.</note> the ſervile thraldome of the Iſ<g ref="char:EOLhyphen"/>raelits in Aegypt, are called Gods Acts, that he did them, that they were from God: And this is in regard ſome principall and chief actions in the evill of ſin are Gods; but the guidance and regiment thereof are wholy his; as will appeare from Gods dealing: Firſt, in the beginning. Secondly, in the progreſſe of ſinne.</p>
+            <p>By Gods dealing and action, in the beginning of ſinne, and that firſt in the permiſſion of ſinne, which is not by any licenſe or Law, for the act of ſinne is al<g ref="char:EOLhyphen"/>wayes taken away from the power of man (as unto an Authority or licenſe to doe it) although he have deſire and ſtrength ſufficient to doe it; By a Law, and divine preſcript, whereby he is reſtrained that he cannot doe a prohibited act, without ſinning againſt God, who hath an abſolute power and juriſdiction over him, and
+<pb n="5" facs="tcp:115761:6"/>all his actions, as being his creature; but this permiſ<g ref="char:EOLhyphen"/>ſion of Gods is by a ſuſpenſion of the impediments, which if they were applyed, would abſolutely hinder ſinne, and this permiſſion is by giving, firſt ability, ſe<g ref="char:EOLhyphen"/>condly will unto man to doe that which he hath a de<g ref="char:EOLhyphen"/>ſire to doe, and this ability is firſt by continuation of mans life, without which he could not commit ſinne: Secondly, by conſervation of the meanes to doe ſinne: Thirdly, by a proviſion that a greater power be not oppoſed unto that ability, or power of man unto ſin<g ref="char:EOLhyphen"/>ning. Fourthly, by a preſentation of the object on which ſinne is committed.</p>
+            <p>Secondly, by Gods permiſſion unto the will of man to commit ſinne; not but that Almighty God doth alwayes preſent unto the will of man ſome meanes to prevent, and impediments to hinder ſinne, the very Ethniques having from the creatures <hi>ſcientiâ ſub alter<g ref="char:EOLhyphen"/>natâ,</hi> furtherances unto ſaving grace, and Lectures to read God unto them, in regard that from principles more knowne, they might have arrived unto princi<g ref="char:EOLhyphen"/>ples leſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e knowne, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d they not become vaine in their imaginations, and wholy fixed them upon the crea<g ref="char:EOLhyphen"/>tures, when by them, as by ſo many ſteps they might have aſcended unto the knowledge of the Creator, as St. <hi>Paul</hi> proves, <hi>Rom.</hi> 1. but ſeeing the meanes of grace offered, rejected; God will not apply others which would abſolutely hinder ſinne; for cauſes ac<g ref="char:EOLhyphen"/>cording to the ſecret working of his wiſdome and po<g ref="char:EOLhyphen"/>wer unto himſelfe only knowne: The amazing retro<g ref="char:EOLhyphen"/>ceſſion,<note place="margin">John. 18.6.</note> and falling backward upon the ground of the apprehenders of our Saviour, the diſſent of the wit<g ref="char:EOLhyphen"/>neſſes in the forged evidences given againſt him,<note place="margin">Mark. 14.56.</note> the
+<pb n="6" facs="tcp:115761:7"/>reſentment of <hi>Pilate,</hi> with other even prodigiouſly concurrent impediments might have beene ſufficient ſtops to ſtay the progreſſe of the Jewes active and pro<g ref="char:EOLhyphen"/>found malice unto our Saviour; all which not having the due operation upon them, God declines the admi<g ref="char:EOLhyphen"/>niſtration of more powerfull impediments to divert their malice, which notwithſtanding God makes to ſerve unto the great worke of mans redemption:</p>
+            <p>Gods dealing and action in the beginning of ſinne appeares likewiſe in the adminiſtration of ſuch Argu<g ref="char:EOLhyphen"/>ments and opportunities as are <hi>motiva peccati,</hi> motives unto acts of ſinne, which if not intended as ſuch by God; yet they prove ſuch unto the affections of man as the events which depend upon them ſhew; and theſe are preſented unto the minde of man, his ſenſes exter<g ref="char:EOLhyphen"/>nall or internall, either by the mediate and interpoſing worke of the Creatures, or by the immediate Action of God himſelfe. Thus by the diſpoſition of God, arguments and occaſions were offered unto <hi>Ioſephs</hi> Bretheren to beget their hate, and to conſummate the cruell effects thereof againſt him: Firſt, <hi>Ioſeph</hi> brings his Bretherens ill report unto their Father,<note place="margin">Gen. 37.2.4.5.14.28.</note> next there was <hi>Iacobs</hi> fond and invidious diſtinction of him in his apparell; heere <hi>Ioſeph</hi> himſelfe, and <hi>Iacob</hi> his Fa<g ref="char:EOLhyphen"/>ther by a mediate and intercedent act give ground for riſe unto this malice; there is likewiſe the immediate act of God in preſenting further arguments thereunto, <hi>Ioſephs</hi> dreames ſent by God, and <hi>Iacobs</hi> owne divine expoſition thereof, the oportunities given unto them to perfect the acts of their hatred; were <hi>Iacobs</hi> ſen<g ref="char:EOLhyphen"/>ding him to ſee his Bretheren, and the paſſing by of the Midianitiſh Merchants: The laſt dealing and acti<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:115761:7"/>of God in the beginning of ſinne is by Gods Con<g ref="char:EOLhyphen"/>courſe, which is neceſſary to produce every act, ſince there is nothing that can have any being, but from the firſt and chiefe cauſe and being, God, which con<g ref="char:EOLhyphen"/>courſe of Gods, is not an immediate influence upon the ſecond cauſe, man; but the action of God con<g ref="char:EOLhyphen"/>currently flowing upon the effect of his creature, man; ſo that one and the ſame common effect, is produced by one and the ſame concommitant action of God and man together, being joynt efficients,<note place="margin">Vid. Scot. 2d. 37. q. 2. ſect. Etſi objicitur.</note> and neither without the other, and this concourſe God denyeth not unto man, when he hath permitted an Act unto his ability and will; but Gods concourſe is onely unto the act as ſuch, not as it is a ſinne, but an ability to doe ſuch a thing, and this hath not the leaſt mixture of e<g ref="char:EOLhyphen"/>vill with the act as ſinfull; the malignity conſiſting in the execution or doing the act of ſinne; ſo that the ſecond cauſe, man, is <hi>cauſa totalis &amp; ſolitaria,</hi> the whole and onely cauſe of the effect ſinne; God be<g ref="char:EOLhyphen"/>ing <hi>cauſa potentiae ad actum,</hi> of the power as a ſtrength to commit ſinne; but not <hi>cauſa poteſtatis</hi> or <hi>actus,</hi> not the cauſe of a Lycenſe to ſinne or the Act in ſinning: Man then acting without the firſt cauſe, God; it be<g ref="char:EOLhyphen"/>ing in mans power then to act or not to act: In this ſence the Pſalmiſt is to be underſtood, <hi>Pſalm.</hi> 105. <hi>v.</hi> 25. The Lord is ſayd to turne the heart of the Aegyp<g ref="char:EOLhyphen"/>tians, to deale ſubtilly with his ſervants: The Aegyp<g ref="char:EOLhyphen"/>tians had ability and will to oppreſſe Gods people, and ſo farre Gods concourſe; but not in their hatred and ill dealing with them, which therefore God ſe<g ref="char:EOLhyphen"/>verely puniſhed.</p>
+            <p>Now the ground of Gods permiſſion unto the abi<g ref="char:EOLhyphen"/>lity
+<pb n="8" facs="tcp:115761:8"/>and will of man to doe evill, of the adminiſtrati<g ref="char:EOLhyphen"/>on of Arguments and opportunities thereunto, and of his concourſe is the tryall of mans obedience unto God: There being planted in man a receptive power to entertaine divine grace, and the meanes thereof offered, he being endowed with a capacity to embrace or reject them by his elective faculty uſually called free-will, which amounts not unto a previous naturall diſpoſition, much leſſe ſelfe-ability to doe good, the corruption of naturall mans will, alwayes carrying him captive unto ſinne; but unto a free concurrence with grace offered, and unto a voluntary power of ſubordi<g ref="char:EOLhyphen"/>nate cooperation therewith, in the aſſiſtance whereof (onely) he hath ſtrength to make reſiſtance againſt e<g ref="char:EOLhyphen"/>vill, and a poſſibility of performing preſcribed holy duties, unto which God (in his infinite and meere mer<g ref="char:EOLhyphen"/>cy through Chriſt, not by any proportion of worke or menit) hath by promiſe enſured a gracious accep<g ref="char:EOLhyphen"/>tation, and rewards glorious and eternall. Behold (ſaith God) unto the Iſraelits, I ſet before you this day a bleſſing and a curſe; a bleſſing if you obey the Commandements of your Lord your God, which I command you this day, and a curſe if you will not obey the Commandements of the Lord the God. <hi>Deut.</hi> 11.26.27.28. So ſpeakes our Saviour, He that beleeveth and is baptized ſhall be ſaved; but he that beleeveth not ſhall be damned, <hi>Marke.</hi> 16.16. God hath done his part, in that with the Prophet, he hath ſhewen us what is good:<note place="margin">Michah. 6 8.</note> If there were no per<g ref="char:EOLhyphen"/>miſſion of ſinne,<note place="margin">Chryſoſt.</note> then there were no tryall, if no try<g ref="char:EOLhyphen"/>all no conflict, and if no conflict then no Crowne. That which is tearmed evill or ſinne (ſaith St. <hi>Aug.</hi>)
+<pb n="9" facs="tcp:115761:8"/>being well ordered and placed in its proper ſeate,<note place="margin">Illud quod mal um dicitur be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or<g ref="char:EOLhyphen"/>dinatum, &amp; loco ſuo poſitum, emi<g ref="char:EOLhyphen"/>nentius commendat bonum, ut magis placeant, &amp; laudabiliora ſint bona<g ref="char:EOLhyphen"/>dum comparantur malis. Aug. Enchi ad Laurent. c. <hi>11.</hi>
+               </note> doth more emi<g ref="char:EOLhyphen"/>minently commend that which is good; in that good things doe the more pleaſe, and are more praiſe worthy, when they are compared with evil things. Good and badd are before us, we chuſe the good whilſt wee ſtrive againſt the evill;<note place="margin">1. Cor. 8.12.</note> for the willing mind is that which procures the acceptation with God; and this if every man hath not, it is through his owne default. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re is no man to bee excuſed as though hee would, yet could not,<note place="margin">Neque enim quiſquam poterit ex<g ref="char:EOLhyphen"/>cuſari, quaſi voluerit, &amp; non potue<g ref="char:EOLhyphen"/>rit, cum conſtet cum idcirco non po<g ref="char:EOLhyphen"/>tuiſſe, quia noluit. Chryſ. in ſer. de Zachaeo.</note> when it appeares that therefore he could not becauſe he would not, ſayes <hi>Chryſoſtome</hi> And as in the begin<g ref="char:EOLhyphen"/>ning of ſinne, ſo Gods dealing or action appeares in the progreſſe of ſinne, and that in a two fould Act of his providence; Firſt in the direction of ſinne: Secondly in the limitation thereof: God doth all things in Meaſure, Number,<note place="margin">Wiſd. 11.21.</note> and Weight: his powerfull, juſt, wiſe,<note place="margin">Wiſd. 8, 1.</note> and ſweet Order and diſpoſition of ſin appeares:</p>
+            <p>Firſt, in the direction of ſinne, and that two wayes,<note place="margin">Prov. 16 9.</note> firſt upon that object, ſecondly,<note place="margin">Jer. 10.23.</note> upon that end God himſelfe onely pleaſeth; Firſt, upon the object, as when God per<g ref="char:EOLhyphen"/>mits not unto a ſinner to make every man indifferently the object of his malice, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch perticular perſons onely as God ſhall direct him upon: S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tans malice was directed by God againſt the ſtrongeſt, and moſt perfect piece of humane piety, <hi>Job:</hi> The King of Babylon uſing divina<g ref="char:EOLhyphen"/>tion, and conſulting with the intralls whether hee ſhould make Warre with the Ammonites or Judah;<note place="margin">Ez. 21.19, 20, 21.</note> God ſo diſ<g ref="char:EOLhyphen"/>poſed the whole courſe of the Divina<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, that the ſignes and reſults were for the War againſt Judah. The divine diſpoſition of a like attempt, of that moſt ſubtile adverſary
+<pb n="10" facs="tcp:115761:9"/>Chriſtianity ever had, is a parallell inſtance; ſuch an en<g ref="char:EOLhyphen"/>quiry of <hi>Julians,</hi> concerning the ſucceſſe and continuance of Chriſtian Religion; was anſwered with the manifeſt ſignature of thoſe Emblemes which ſpake Government and Eternity.<note place="margin">Nazian. Invect. <hi>1.</hi>
+               </note>
+            </p>
+            <p>And as upon what object God onely pleaſeth, ſo he di<g ref="char:EOLhyphen"/>recteth ſinne unto that end, hee onely pleaſeth; and not what the party ſinning intends: So <hi>Joſeph</hi> tels his brethren, As for you, yee thought evill againſt me, but God meant it unto good to bring to paſſe as it is this day,<note place="margin">Gen. 50.20</note> to ſave much people alive; God deſigned the Aſſyrian, the rodd of his anger againſt Iſrael,<note place="margin">Iſa. 10 6.7.</note> for their fatherly chaſtiſement and cor<g ref="char:EOLhyphen"/>rection in Meaſure, howbeit the Aſſyrian he meant not ſo, but it was in his heart utterly to deſtroy, ſayes the Pro<g ref="char:EOLhyphen"/>phet.</p>
+            <p>The malice of <hi>Herod, Pontius Pilate,</hi> of the Gentiles, and Jewes,<note place="margin">
+                  <hi>Acts 4.27, 28.</hi> Deus voluntate, ſuas unqe bonas, implet per homi<g ref="char:EOLhyphen"/>num malorum <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Suntates mal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>6.191.</hi>
+               </note> againſt our bleſſed Saviour, were as Saint <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and Saint <hi>John</hi> tell us, by Gods counſell determined unto the worke of mans Redemption: Thus God by the evill wills of evill men; fulfils his owne good will, ſayes <hi>Auguſtine.</hi>
+            </p>
+            <p>The limitation or bounding of ſinne, is an act of Gods divine providence, whereby he confineth ſinne, that it extend not unto the various and boundleſſe deſires of a ſin<g ref="char:EOLhyphen"/>ner; but ſo farre forth as God onely in his ſecret wiſdome ſhall thinke fit: and this limitation is given unto ſinne, by the circumſcription thereof within certaine periods, of time, for the duration and continuance thereof; and within ſet bounds and diſtances of place for the extent thereof, God thus putting a certaine Meaſure and proportion unto ſinne, both in the guilt and puniſhment thereof; There were times of ignorance, at which God winked at, but (there enſued a determined time by God, and that was the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) Now, (ſayes the Apoſtle) hee exhorteth all men every where to repent:<note place="margin">Acts 17.30.</note> the rod of the wicked ſhall not alwayes reſt upon the lot of the righte<g ref="char:EOLhyphen"/>ous: the Deuill had a Commiſſion againſt <hi>Job,</hi>
+               <note place="margin">Pſ. 125.3.</note> but with
+<pb n="11" facs="tcp:115761:9"/>a <hi>proviſo</hi> and exception of his life, and therefore is it that God many times doth not hinder wicked men from the ſinne as unto the intention,<note place="margin">Job 2.6.</note> but in the act, as unto the ex<g ref="char:EOLhyphen"/>ecution thereof; as God reſcued <hi>Elias</hi> from <hi>Ahaziah,</hi> who ſent diverſe times to murder him: God hindred not <hi>Joſephs</hi> brethren from the ſinne, but from the act or execu<g ref="char:EOLhyphen"/>tion thereof: But God hindred <hi>David</hi> from the intention, not the act, as a power of execution,<note place="margin">2. Kingst:</note> when <hi>Saul</hi> his moſt confirmed,<note place="margin">1. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m 24.6.</note> cruell, and active Adverſary was in his power, and from ſhedding <hi>Nabals</hi> blood.</p>
+            <p>Gods permiſſion of the evill of ſinne unto the power and will of man;<note place="margin">Object.</note> the adminiſtration of arguments,<note place="margin">1. Sam. 25.22.</note> and preſentation of opportunities inciting thereunto,<note place="margin">See Eccleſ. 5. v. 11. &amp;c.</note> his con<g ref="char:EOLhyphen"/>courſe with, and his direction and limitation of ſin,<note place="margin">Pſ. 31. v. 8, 9.</note> ſeeme to ſpeake God the author of ſinne,<note place="margin">Iſa. 5.4.</note> which to thinke were the toppe of impiety, and even the apprehenſion dam<g ref="char:EOLhyphen"/>nable.</p>
+            <p>God ſufficiently hindreth ſinne when he giveth forth a knowne and received Lawe againſt it,<note place="margin">Anſw.</note> and convenient meanes and helpes of grace to performe that Law; ſo that man is onely wanting unto himſelfe: For as unto Gods permiſſion that is not the efficient cauſe of ſinne, (ſinne being done not without Gods will,<note place="margin">Non fit preler <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>jus voluntatem quod etiam contr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ejus fit volunta<g ref="char:EOLhyphen"/>tem, Euchir. c. <hi>100.</hi>
+               </note> which yet is done againſt Gods will, as <hi>Aug.</hi> tels us.) In regard it is but the ſuſpenſion of the more powerfull impediments of ſinne, neither doth God by deficiency, by being wanting unto man, occaſion ſinne; the many offers and frequent ſuggeſtions of Gods ſpirit alwayes preſenting a preſent and ſufficient aſſiſtance of grace,<note place="margin">1. Cor. 12.7.</note> if it have not beene abu<g ref="char:EOLhyphen"/>ſed, for if wee walke in the ſpirit, wee ſhall not fulfill the luſts of the fleſh, <hi>Gal.</hi> 5.16. But when we grieve the holy ſpirit of God, quench the operations thereof,<note place="margin">Eph. 4.33.</note> and doe deſ<g ref="char:EOLhyphen"/>pite thereunto,<note place="margin">1 Theſſ. 5.19.</note> it is our owne act that it leaves us, and a<g ref="char:EOLhyphen"/>bandons us up unto the evill of ſinne.<note place="margin">Heb. 10.29.</note> The adminiſtration of arguments, and Preſentation of opportunities unto ſin, is no cauſe of ſinne, but the knowne and forewarned try<g ref="char:EOLhyphen"/>all of mans obedience, Gods concourſe is but unto the act
+<pb n="12" facs="tcp:115761:10"/>not the ſinne; ability to doe an evill act being a naturall good,<note place="margin">Scot uliſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pra.</note> but the execution thereof a morall evill, Gods di<g ref="char:EOLhyphen"/>rection and limitation of ſinne proclaime his power and wiſedome:<note place="margin">Divina providen<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a di<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>im <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ato <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, ſed quta ipſa or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nat cum pecca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rint, in <hi>Pſal.</hi> 7.</note> moſt ſweetly Saint <hi>Auguſtine,</hi> That directi<g ref="char:EOLhyphen"/>on (ſaith he) is to bee attributed unto the divine provi<g ref="char:EOLhyphen"/>dence, not that it maketh ſinners; but that it ordereth, and ruleth them when they have ſinned. To rub out this puce graine out of the eares of difficulty, and make it mandi<g ref="char:EOLhyphen"/>ble for any of an intellectuall guſt, Gods dealing as unto the evill of ſinne may by way of ſimilitude, and ſuch as our Saviour himſelfe uſed,<note place="margin">Mat 21.23.</note> thus bee illuſtrated: A temporall Prince empowers ſome ſelect ſubjects,<note place="margin">Mat. 24 48.</note> for their owne and the common good, with the diſpoſition of his revenu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the command of his fortreſſes, and government of his Real<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, yet theſe great Tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ees abuſe this power, em<g ref="char:EOLhyphen"/>ploy it un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>judice of their Prince, diveſt him of all Regall authority, beare their fellow ſervants, and com<g ref="char:EOLhyphen"/>mit all inſolencies; the Prince thus empowering them is the chiefe and principall cauſe of their ability to doe e<g ref="char:EOLhyphen"/>normous acts, in that he conſigned ſuch a power into their hands, and preſented ſuch opportunities for the effecting them; yet the Prince is not the cauſe of the enormities committed by Them, for his concurrence was onely unto their owne and the publique good, unto which they were empowred, not as unto their ſinfull actions, which ſlow from the perverſeneſſe of their owne wils, their power was from him and ſo far forth good; but the whole abuſe ther<g ref="char:EOLhyphen"/>of was from themſelves, and ſo far ſinfull: neither could a tryall of their loyalty have beene made, unleſſe ſuch a pow<g ref="char:EOLhyphen"/>er had beene conferred upon them, the abuſe whereof makes themſelves the whole and ſole cauſe of the evill of their ſinne, diſloyalty, and of the evill of the puniſhment due thereunto: So is it betweene God and a ſinner; but our temporall Princes have not ſo much of omnipotency to direct and limit the abuſe of the power once given, that onely can the ſupreame Monarch, God doe; ſo that they ſhould truſt forth no more power then they were able to
+<pb n="13" facs="tcp:115761:10"/>direct and limit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: yet neither is the direction or limi<g ref="char:EOLhyphen"/>tation of this power in them that abuſe it.</p>
+            <p>Thus God doth the evill of ſinne, God is likewiſe ſayde to doe the evill of puniſhment, and that by his owne in<g ref="char:EOLhyphen"/>fliction of puniſhment for ſinne, as an evill, and becauſe the evi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l: the puniſhment of ſinne being an act of Gods providence, whereby ſinne according unto the divine ju<g ref="char:EOLhyphen"/>ſtice receiveth the reward deſigned by God as due there<g ref="char:EOLhyphen"/>unto, which are paines or puniſhments, either temporall or eternall: temporall puniſhments are either corporall, or ſpirituall; corporall puniſhments are either nationall, as that irkeſome and unavoidable reproach the Jewes lye under; the Engliſh ſweate which followed the Engliſh,<note place="margin">Job 34.29.</note> and none elſe over the whole World,<note place="margin">Zacheut Rom. Qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. medicoleg</note> or proper unto a fa<g ref="char:EOLhyphen"/>mily as <hi>Gehazi</hi> his Leproſie; pinching want that proſecu<g ref="char:EOLhyphen"/>ted <hi>Elies</hi> poſterity, and theſe may bee either immediate from God, ſuch were the Egyptian plagues,<note place="margin">Exod. 8.19.</note> which are therefore called the finger of God: ſuch was the Peſtilence in the time of King <hi>David,</hi> tearmed the hand of God,<note place="margin">1 Kings 24.14.</note> be<g ref="char:EOLhyphen"/>cauſe that in ſuch judgements the action of the firſt cauſe God is onely viſible: So likewiſe the workes of the Devil againſt mankinde, as poſſeſſion, or ſuddaine diſaſters wrought by him, are called Gods hand,<note place="margin">Job 19.21.</note> ſo <hi>Job</hi> acknowledg<g ref="char:EOLhyphen"/>eth them, becauſe a ſpirituall inſtrument leſſe apparent is employed by God.</p>
+            <p>Corporall puniſhments are alſo mediate, wherein the action of ſecond and inferiour cauſes are more viſible, al<g ref="char:EOLhyphen"/>though they doe but ſerve and are ſubordinated unto the action of the firſt cauſe God, ſuch are ſickneſſes of the bo<g ref="char:EOLhyphen"/>dy, loſſe of things temporall, poverty and the attendants thereof, nakedneſſe, hunger, thirſt, and that huge route of common calamities attendant upon mankinde; ſuch are the oppreſſion of a Nation by an enemy, with the many ſad effects thereof, of a perticular perſon by an Adverſa<g ref="char:EOLhyphen"/>ry, with the diſtaſtefull conſequences thereof, in both which there is the divine juſtice inflicting the evill of pu<g ref="char:EOLhyphen"/>niſhment upon a people or perſon, for the evill of ſinne,
+<pb n="14" facs="tcp:115761:11"/>by a mediate and inſtrumentall cauſe; which onely act in the power of the firſt cauſe; from whom their power re<g ref="char:EOLhyphen"/>ceiveth its duration or continuance, and the extent of the magnitude or greatneſſe thereof:<note place="margin">Sie fit ut malus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; malus Angelus divina providemia mili ton<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed neſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> quid bons de ill<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> op<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, lib, de Agone Chriſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>7, Iſa. 10.5. Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 10.10, 26.</hi>
+               </note> So it comes to paſſe (ſaith <hi>Aug.</hi>) that both wicked men and evill Angels ſerve the divine Providence, but they know not what good God workes by them. Thus the Aſſyrian is called the Rod of Gods anger, wherewith he whipt the children of Iſrael, the Razor by which hee would ſhave them; Midian a ſcourge by which God would correct his people: God pu<g ref="char:EOLhyphen"/>niſhed <hi>David</hi> by <hi>Saul,</hi> by <hi>Abſolon; Solomon</hi> by <hi>Jeroboam,</hi> this is an employment which God hath for malicious men, which all that profeſſe Chriſt ſhould obſerve, that oppreſ<g ref="char:EOLhyphen"/>ſours and malicious adverſaries the ordinary iuſtruments, whereby God will puniſh particuler perſons, are declared by the Pſalmiſt to be the wicked which are Gods ſword, <hi>Pſal</hi> 17.13.</p>
+            <p>Since all theſe judgements immediately or mediately are from God,<note place="margin">Object.</note> and are the due puniſhments of ſin, wee ought no wayes to prevent or oppoſe them, for who hath reſiſted Gods will, but to ſubmit unto the increaſe of in<g ref="char:EOLhyphen"/>firmities, the growth of calamities, the tyranny and force of enemies Nationall and perſonall, and this courſe will be the diſſolution of all Eſtates.</p>
+            <p>In the providence of God in the puniſhment of finne,<note place="margin">Anſw.</note> there is a twofold reſpect conſiderable: Firſt, the act of Gods revealed will: Secondly, the Act of Gods ſecret will: When the mentioned puniſhments are inflicted up<g ref="char:EOLhyphen"/>on us, it is evident that they are for our ſinnes, they are the acts of Gods revealed will; but of what continuation or extenſion they ſhall be of, we know not, that is the act of Gods ſecret will: and therefore (after humiliation be<g ref="char:EOLhyphen"/>fore God) wee ſhould ſeeke remedyes againſt ing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uent infirmities, prevent emergent calamities, oppoſe the in<g ref="char:EOLhyphen"/>vaſion of an Enemy,<note place="margin">Pſal. 118.17.</note> and the incroachments of an Ad<g ref="char:EOLhyphen"/>verſary.</p>
+            <p>Spirituall judgements in this life inflicted and done by
+<pb n="15" facs="tcp:115761:11"/>God, the evils of puniſhments for the evils of ſinne, are as when one ſinne is puniſhed by another, or ſo as when a former may prove the occaſion or cauſe of an enſuing ſin, and thus doe ſinners proceed from evill to evill,<note place="margin">Eph. 4.18.</note> as the Prophet ſpeakes, <hi>Jer.</hi> 9.3. Obſtinacy and malicious con<g ref="char:EOLhyphen"/>tinuance in ſinne,<note place="margin">Rom. 1.21.24, 26, 28.</note> is puniſhed by darkneſſe of the under<g ref="char:EOLhyphen"/>ſtanding, and hardneſſe of heart, a giving men up unto the luſts of their owne hearts, unto vile affections, and unto a reprobate mind, yea the proportion of Gods judge<g ref="char:EOLhyphen"/>ments is moſt obſervable, the reſiſtance and grieving of Gods Spirit,<note place="margin">1 Sam. 16.14.</note> is puniſhed with the dereliction of Gods ſpi<g ref="char:EOLhyphen"/>rit, the want of the aſſiſtance of grace, and immiſſion of an evill ſpirit, as in <hi>Saul</hi> and the Syco<g ref="char:EOLhyphen"/>phant Prophets,<note place="margin">Deus induravit cor Pharonis non, in ſundando malitiam, ſed ſubtrahendo gratiam, Aug.</note> ſo God hardned <hi>Pharoahs</hi> heart, not by infuſing ſinne, but by ſub<g ref="char:EOLhyphen"/>ſtracting meanes of Grace ſo often a<g ref="char:EOLhyphen"/>buſed.</p>
+            <p>
+               <hi>Elies</hi> ſonnes would not hearken unto the voice of their Father, becauſe the Lord would ſlay them: Sometimes to doe in God (ſaith a Father) is in anger to permit that which he hath forbidden to be done:<note place="margin">Aliquando facere Dei, eſt id, quod fieri prohibet iraſcendo permittere: Greg. m. l. <hi>25.</hi> in <hi>Job c. 13.</hi> Quis tam impiè deſipiat ut di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ma<g ref="char:EOLhyphen"/>las bominum voluntates, quas voluerit, quando volu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit, ubi voluerit in bonum non poſſe convertere, ſed cum facit per miſericordiam fa<g ref="char:EOLhyphen"/>cit; cum autem non facit, per jndicium non facit, Enchir. c. <hi>98.</hi>
+               </note> Can any man be ſo wickedly fooliſh as to ſay. That God cannot con<g ref="char:EOLhyphen"/>vert unto good the evill wilt of men, which he will, when he will, as he will, but when God doth ſo, he doth ſo in mer<g ref="char:EOLhyphen"/>cy, and when he doth not ſo, in juſtice he doth not ſo, ſayes <hi>Aug.</hi>
+            </p>
+            <p>Eternall judgements the evils of pu<g ref="char:EOLhyphen"/>niſhments for the evils of ſinnes, are ei<g ref="char:EOLhyphen"/>ther <hi>pana damni,</hi> the puniſhment of the loſſe, which is the eternall want of the moſt glorious, comfortable and beatificall viſion, of alwayes beholding the face of God (the greateſt torment of the damned) or <hi>pana ſonſus,</hi> the tormente to be inflicted upon the ſoule and body de<g ref="char:EOLhyphen"/>ſcribed unto us in Scripture, by unquenchable fire, flames,
+<pb n="16" facs="tcp:115761:12"/>everlaſting burnings, intollerable heate, weeping, wail<g ref="char:EOLhyphen"/>ing, gnaſhing of teeth, chaines, perpetuall darkneſſe, the never dying worme of conſcience; from all which,</p>
+            <q>Good Lord deliver us.</q>
+            <p>The evill here meant eſpecially, is the evill of puniſh<g ref="char:EOLhyphen"/>ment, and of all temporall puniſhments, the greateſt, Warre; as appeares by the proclaiming thereof by the ſound of a Trumpet (that warlike Inſtrument) <hi>v.</hi> 6. by the tumults and oppreſſion it ſhould occaſion, <hi>v.</hi> 9. by the poverty and devaſtations it ſhould bring with it, <hi>v.</hi> 11. Warre is the evill of puniſhment for the evill of ſinne, in<g ref="char:EOLhyphen"/>flicted by God, for it is God that createth peace, and ma<g ref="char:EOLhyphen"/>keth evill, ſayes the Prophet <hi>Iſa</hi> 45. <hi>v.</hi> 7. that is Warre, as from the Antitheſis in the place, in the oppoſition of evill (of which Warre is a ſpecies) unto Peace appears: Warre is a deſtruction come from the Almighty, <hi>Iſa.</hi> 13.6. all calamities occaſionable by Warre in the many woefull eff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts thereof, murther, deſolation, rapes, rapines, pover<g ref="char:EOLhyphen"/>ty, hunger, nakedneſſe, violent death, with all that hudge rabble of the ill favoured miſeries that waite upon that, are the ſowre fruits of ſweet ſinnes, the evils of puniſhments for the evils of ſinnes, the Lord doth them: War is Gods rod with which he whippeth a people for the evill of ſin, <hi>Iſa.</hi> 10.7. and more ſharpe then Famine or the Peſtilence it ſelfe;<note place="margin">2. Sam. 24 13, 14.</note> it never happens without Gods direction, being Gods ſword in an enemies hand, <hi>cz.</hi> 21.9. The Aſſyrian Generall <hi>Rabſekeh</hi> tels the Garriſon of Jeruſalem,<note place="margin">Ez. 21.9, 10, 11, 12.</note> that it was God ſent him to deſtroy that place:<note place="margin">2 Kings 18.25</note> Eccleſiaſticall Hiſtory tels us, that a certaine devour Monke meeting <hi>A<g ref="char:EOLhyphen"/>thalaricus</hi> the Goth upon his march towards Rome endea<g ref="char:EOLhyphen"/>voured to perſwade him to ſpare the City, and not to make himſelfe the author of ſo many miſeries,<note place="margin">S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zom. li. <hi>9.</hi> c. <hi>6.</hi>
+               </note> and evills as would enſue; unto whom the Barbarian replyed, that he undertooke this thing unwillingly, for there was one who urged and commanded him to deſtroy Rome: If
+<pb n="17" facs="tcp:115761:12"/>men were wiſe (ſaith Saint <hi>Aug.</hi>) thoſe ſharpe and hard things which they have endured from their enemies,<note place="margin">Cum potius deberent ſi quid rictè ſaperent, illa quae ab ho<g ref="char:EOLhyphen"/>ſtibus aspera, &amp; dura per<g ref="char:EOLhyphen"/>peſſi ſunt; illi divinae provi<g ref="char:EOLhyphen"/>dentia tribuere, quae ſolet corruptos hominum mores bellis, emendare, &amp; conterere. Aug. C. D. c. <hi>1.</hi> l, <hi>1.</hi>
+               </note> they would attribute unto the Divine Providence: which uſeth to amende and breake the corrupt manners of men by Warres: So that we ſee Warre, the evill here eſpeci<g ref="char:EOLhyphen"/>ally intended, is the evill of puniſhment, for the evill of ſinne: The laſt enquiry then will be to know why God is here ſaid to doe this e<g ref="char:EOLhyphen"/>vill, (the evill of puniſhment, Warre) in a City: The Ci<g ref="char:EOLhyphen"/>ty upon which God here threatneth to bring the evill of puniſhment (Warre) upon, was the City of <hi>Samaria;</hi> the Metropolis of the Kingdome of Iſrael, <hi>v.</hi> 12. A place wherein nature and Art equally contended which ſhould contribute the greater ſtrength unto, being ſituated upon an hill, and therefore choſen by <hi>Omri</hi> for the chiefe ſeate of his new erected Soveraignty:<note place="margin">1 K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs 16.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> This City in humane conjecture, by all advantages placed farre above the gun<g ref="char:EOLhyphen"/>ſhot of danger; God here ſubjecteth unto the fury of Warre. To doe the evill of Warre in a City, eſpecially in ſuch a City; notably magnifies the power of God in pu<g ref="char:EOLhyphen"/>niſhing, and ſhewes the greatneſſe of his puniſhment it ſelfe.</p>
+            <p>Firſt it advanceth the power of God unto the higheſt pitch of our conſideration, in that Cities farre above all other places ſeeme ſecured from the fury of War; King<g ref="char:EOLhyphen"/>domes and Countries (in which are great number of poor Villages, and a diſperſed (for the moſt part) naked peo<g ref="char:EOLhyphen"/>ple in ſcattered habitations) lye open to the fury of Inva<g ref="char:EOLhyphen"/>ſion, and inroads of Enemies, whether Forraine or Civill; Citizens can more ſuddenly joyne together, as being peo<g ref="char:EOLhyphen"/>ple more contracted into a neare neighbourhood of dwel<g ref="char:EOLhyphen"/>ling, which beſides that it begets familiarity and affection, common intereſt and preſervation linkes them together, and engageth them unto mutuall offence and defence; beſides this that Citizens and people of the ſame City, are
+<pb n="18" facs="tcp:115761:13"/>united in one language and ſpeech, the ſame Lawes, a like liberty in one forme of government, and in a concord in Religion; (then wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch nothing can more ſtrongly unite a people:<note place="margin">Nibil G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Dei culto<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inter ſe conciliat, at<g ref="char:EOLhyphen"/>qui <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tes de Deo ſen<g ref="char:EOLhyphen"/>tentia. Na<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Orat. <hi>1.</hi> de pace.</note>) all which ſerve as ſo many ſtrong tyes and indiſſolu<g ref="char:EOLhyphen"/>ble bands to bind Citizens together in the common oppoſition of an Enemie; and in the prevention of the miſeries of Warre: Adde hereunto, that Cities are compacted, and rich Circuits, fortified with wals and workes ſtrength<g ref="char:EOLhyphen"/>ned with ports, furniſhed with Towers and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſtored with money, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ition, and all warlike preparations; all theſe accommodations ſeeme to ſpeake Cities impreg<g ref="char:EOLhyphen"/>nable, and may make Citizens d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>efea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and the fury of Wa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſo probably did <hi>Samaria,</hi> for it c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld not be forced <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Benhadad</hi> the King of Aſſyria his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge Hoſt; though preached with u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paralleld ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>remi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Famine, in the Reigne of <hi>Jeho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am,</hi> 2. <hi>Kings</hi> 6. and <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ards en<g ref="char:EOLhyphen"/>du<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ege, by <hi>Shalmaneſer</hi> 2 <hi>Kings</hi> 17. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the evill of War upon ſuch a City, ſeems aſpec<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s power.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the greatneſſe of the puniſhment, wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Metropolis and m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er City is loſt, the ſtake of the whole Kingdome ſeemes left and when the rage of Warre <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon a City, ſcarcely any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcape with life<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome and Countries yeeld many hiding places, diverſe C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s ſhelters, and ſafe retirements, ſo that ma<g ref="char:EOLhyphen"/>ry even in the heare of Warre doe ſecure their perſons, and ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; there being leſſe of danger in loſing a bat<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in the field, then a City in an aſſault; as wee may ob<g ref="char:EOLhyphen"/>ſerve in the Benjamites of <hi>Giboah,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. 47. Joſhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8.</note> and the Citizens of <hi>Ai;</hi> for in a City th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is ſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med none can promiſe to himſelfe life, much leſſe his fortune, both lying at the mercy of the me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſle ſoldie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: and ſo fared it with the ſtronge City of <hi>Samaria,</hi> as the Prophet in the 12 <hi>v.</hi> prophecied, thoſe that hid themſelves in the moſt ſecret corners ſhould after be plucked out by the eares: It was not many yeares after
+<pb n="19" facs="tcp:115761:13"/>that it was taken by the King of Aſſyria, all the inhabitants thereof ledde away captive into a farre Kingdome, new Colonyes placed in their ſtead,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kings 17.</note> and Iſrael deſtroyed from being any more a Kingdome: And this was the evill of puniſhment, Warre, for the evils of their ſinnes: The Pro<g ref="char:EOLhyphen"/>phet <hi>Amos</hi> ſhewes us what theſe evills of their ſinnes; that is, their Nationall and particular evils of ſinne were, which brought theſe evills of puniſhment Warre, upon them: That <hi>Samaria</hi> abounded with all manner of ſinnes which beget puniſhments, is not to bee doubted: But thoſe nototions and particuler evils of ſinne that brought this evill of puniſhment upon the Kingdome of Iſrael, e<g ref="char:EOLhyphen"/>ſpecially the Metropolis thereof <hi>Samaria,</hi> are brand<g ref="char:EOLhyphen"/>marked forth unto us by the Prophet, in great and legible letters, to be foure. <hi>Amos</hi> 2.6. And theſe were,</p>
+            <list>
+               <item>1 Oppreſſion, <hi>Amos</hi> 2.6. and <hi>Amos</hi> 5.7.10.</item>
+               <item>2 Sacriledge, <hi>Amos</hi> 2, 8, <hi>Amos</hi> 4, 4.</item>
+               <item>3 Corruption of the worſhip of God, in Doctrine and Diſcipline, <hi>Amos</hi> 2, 11, 12.</item>
+               <item>4 They had no ſympathy or fellow feeling of the ſuffer<g ref="char:EOLhyphen"/>ings of their brethren, they were not grieved for the af<g ref="char:EOLhyphen"/>fliction of <hi>Joſeph, Amos</hi> 6, 6.</item>
+            </list>
+            <p>Theſe were the evils of ſins which brought the evils of puniſhments War upon <hi>Samaria.</hi>
+            </p>
+            <p>We have now had (as the Iſrael<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ir Manna) this portion of Gods word layde out before us in the Doctri<g ref="char:EOLhyphen"/>nals,<note place="margin">Exod. 16</note> let us (as they did) gather every man according un<g ref="char:EOLhyphen"/>to his eating, collect what befits our ſeverall practice<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hence then are we informed:</p>
+            <p>Firſt, of the great wiſedome of God, (for the tryall of mans obedience, and the examination of his ſubjection unto him, and the divine rule of his will) in the permiſſi<g ref="char:EOLhyphen"/>on of the evill of ſinne, the adminiſtration of Arguments and preſentation of occaſions herunto, and his concourſe therewith.</p>
+            <p>Secondly, that Gods permiſſion of the evill of ſinne and ſinnefull actions, no wayes inferres his approbation
+<pb n="20" facs="tcp:115761:14"/>of, or any wayes make him the Author of ſin,</p>
+            <p>Thirdly, the infinite wiſedome and power of God is ſhowne in the direction and ſubordination of the evill of ſinne, unto his owne holy will, and the limitations of the evils both of ſinne and puniſhment, in the duration and extenſion thereof unto his owne good pleaſure, which eminently ſerves unto the great illuſtration of Gods glory: To bring good out of evill, that being an act peculiar un<g ref="char:EOLhyphen"/>to Gods omnipotency: Man muſt not doe evill that good may come of it, the direction and limitation of ſin is not in him: That is Gods worke, we muſt let it alone for ever: It is he onely who can bring good out of evill; who hath judged it better to bring good out of evill then to permit no evill at all;<note place="margin">Melius judicavit Deus de malis benefa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re, quàm ma<g ref="char:EOLhyphen"/>la nulla permittere: Neque enim Deus cum ſummè bo<g ref="char:EOLhyphen"/>nus, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilo modo ſineret, mali eſſe aliquid in operibus ſuis, niſi uſque ad ò eſſet omnipo tens, &amp; boxus ut beneface<g ref="char:EOLhyphen"/>ret etiam de malo. Euchir. s. <hi>27.</hi>
+               </note> for God being moſt good would ſuffer no evill to be in his whole workes, unleſſe he were ſo omnipotent and good, that hee could bring good out of evill, ſayes Saint <hi>Aug.</hi>
+            </p>
+            <p>Fourthly, hence likewiſe may wee be informed of the great juſtice of God; for t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e evill of ſinne in inflicting the evill of puniſhment, which whether temporall or eternall, corporall or ſpirituall, imme<g ref="char:EOLhyphen"/>diate by Gods owne hand, or mediate by Satan, or wicked perſons Gods inſtru<g ref="char:EOLhyphen"/>ments, are all from God the direct conſequences of ſin, and effects of divine Juſtice; for the correction and a<g ref="char:EOLhyphen"/>mendment of ſinfull men, or their deſtruction.</p>
+            <p>Fifthly, hence likewiſe may be diſcovered the ſtupen<g ref="char:EOLhyphen"/>dious malignity of the evill of ſinne, which drags upon mankinde ſo numerous and horrid puniſhments, all which doe not yet ſatisfie the juſtice of God againſt ſin, which that alone ſacrifice of Chriſt Jeſus, once offered up a ran<g ref="char:EOLhyphen"/>ſome and ſatisfaction for our ſins onely doth; in whom a<g ref="char:EOLhyphen"/>lone God will be well pleaſed with us.</p>
+            <p>Sixthly, Here we alſo learne that War is one of the prin<g ref="char:EOLhyphen"/>cipall evils of puniſhment for the evill of ſin:</p>
+            <pb n="21" facs="tcp:115761:14"/>
+            <p>Seventhly, that to bring the evill of Warre upon a po<g ref="char:EOLhyphen"/>tent City, argues both the greatneſſe of Gods power, and of that puniſhment: This likewiſe checks and confutes,</p>
+            <p n="1">1 The great impiety of ſuch Chriſtians, (if they may be ſo called) who would make God the Author of ſin.</p>
+            <p n="2">2 The Manichees, who would have God to divide the government of the World with the Devill;<note place="margin">Epiph. Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ. <hi>66.</hi> &amp; Aug. de Ago. Chriſt. cap. <hi>4.</hi>
+               </note> fancying two Beginnings of all things without Beginning; one of good, God, and the other of evill, the Devill; that theſe two did all things, the one all good, the other all evill; whereas we ſee that the permiſſion of ſinne is from God, and that the whole order and Regiment of ſinne depend upon his ſinguler Providence.</p>
+            <p n="3">3 Hence alſo (againſt the Manichees) that ſinne is the onely evill and not the Devill;<note place="margin">Joh. 17 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 John 5.18.</note> for although the Davil be called the evill one, hee is not ſo meant in the ſtate of his Creation (in which all Gods creatures are good) but depravation; for he was placed by God in the front of the moſt perfect creatures,<note place="margin">Naturae omnes quoniam na<g ref="char:EOLhyphen"/>turam prorſus omnium con<g ref="char:EOLhyphen"/>ditor ſummè bonus eſt, bonae ſunt. Ench. c, <hi>12,</hi>
+               </note> and therefore called Lucyfer the morning Starre, the chiefe of the wayes of God, but from the corruption and malignity of his evill will, he is called the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vill one, be<g ref="char:EOLhyphen"/>cauſe he firſt brought the evill of ſinne, both into Hea<g ref="char:EOLhyphen"/>ven, and into the earth:<note place="margin">Iſa. 14.13.</note> But the Devill ſay they ſinneth from the Beginning, 1 <hi>John</hi> 3, 8,<note place="margin">Job 40 19.</note> and therefore hee was created evill:<note place="margin">Iſa. 14.14.</note> the Devill ſaith Saint <hi>Auguſtine</hi> is not to be thought to have ſinned at the inſtant or beginning of his creation;<note place="margin">Gen. 3.5.</note> but he ſinned at the begin<g ref="char:EOLhyphen"/>ning becauſe from his Pride ſinne began:<note place="margin">Diabolus non ab initio ex quo creatus peccare putandus eſt ſed ab initio peccat, quod ab e<g ref="char:EOLhyphen"/>jus ſuperbia caperit eſſe pec<g ref="char:EOLhyphen"/>catum. Aug, l, de civi, <hi>D,</hi> l, <hi>11,</hi> cap, <hi>15,</hi> Inſtitutione Dei bonus, ſuâ malus <hi>26,</hi> cap, <hi>26, Joh. 6.70. Joh. 8.44.</hi> 
+                  <g ref="char:V">Ʋ</g>bi ſupra.</note> by Gods ordination he was good, through his owne will he became evill, and wher<g ref="char:EOLhyphen"/>as <hi>Iudas</hi> in Scripture is called a Devill, and ſome of the perverſe Jewes to bee of their Father the Devill; It is to be under<g ref="char:EOLhyphen"/>ſtood that they were ſuch by immitation, not Nature, ſayes <hi>Epiphanius:</hi> The Devill can doe no evill of himſelfe or by his owne power, for
+<pb n="22" facs="tcp:115761:15"/>as unto the evill of ſinne, he cannot by any inward ſug<g ref="char:EOLhyphen"/>geſtion or operation, or immutation of the phancie or ſen<g ref="char:EOLhyphen"/>ſes (unleſſe in caſe or poſſeſſion) promote it, neither can he any wiſe cauſe ſinne, but either by perſwaſion thereun<g ref="char:EOLhyphen"/>to, or propoſing ſome thing as deſirable. The D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vill con<g ref="char:EOLhyphen"/>quers or overcomes no man but by a fel<g ref="char:EOLhyphen"/>lowſhip in ſinne;<note place="margin">Demon non aliquem vincit aut ſubjugat niſi ſocietate p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccati. Aug de C. D. l. <hi>10.</hi> c. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</hi>
+               </note> when <hi>ſub ſigno</hi> by out<g ref="char:EOLhyphen"/>ward ſignes, he diſcovers the inward af<g ref="char:EOLhyphen"/>fections, and can preſent objects ſutable unto them, and can onely promote ſinne, <hi>qua ad actum,</hi>
+               <note place="margin">Tho. Aq. <hi>1.</hi> ſecundae q. <hi>75.8.</hi>
+               </note> as unto the act, <hi>non qua ad peccatum,</hi> not as unto the ſinne: As for the evill of puniſhment, the Devill is onely the executio<g ref="char:EOLhyphen"/>ner of Gods wrath, for the evill of ſinne. Devils (ſaith the Wiſe man) are the ſpirits of Vengeance,<note place="margin">Eccleſ. 39.28.</note> which in their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y lay on ſore ſtroakes, in the time of deſtruction they poure out their force, and appeaſe the wrath of him that made them: The Devill can doe no more, then hee hath warrant for from God, who hath his Hooke in his Noſtrils,<note place="margin">Job 41.2.</note> and ſuffers him not to act any thing without his ſpeciall Commiſſion;<note place="margin">Mark. 5.12.</note> hee could not enter into the Swine without our Saviours licenſe; ſo that although the will of the Devill is alwayes moſt unjuſt, yet his power is alwayes moſt juſt, for the boundleſſe malignity of his corrupt will is from himſelfe, but his power ſtill from God the foun<g ref="char:EOLhyphen"/>taine of juſtice, who directeth and limiteth it. God as he is the moſt good Creator of all good crea<g ref="char:EOLhyphen"/>tures (ſayes <hi>Auguſtine</hi> ſpeaking of De<g ref="char:EOLhyphen"/>vils) ſo he is the moſt juſt Orderer of all evill wils,<note place="margin">Deus ſicut bonarum creatu<g ref="char:EOLhyphen"/>rarum optimus Creator eſt, ita malarum, voluntatum juſtiſſimus Ordinator eſt, ut cum malè illae utuntur Na<g ref="char:EOLhyphen"/>turis bonis, ipſe benè utatur etiam voluntatibus malis. Aug. de Civit. <hi>D.</hi> l. <hi>11.</hi> c. <hi>17.</hi>
+               </note> that when they uſe their good natures evilly, he uſeth even their evill wils happily.</p>
+            <p n="4">4 Hence likewiſe may be refuted that grave and ſupercilious error of the revi<g ref="char:EOLhyphen"/>ved Stoiques of our times, who hold an inevitable Deſtiny, chained unto all acti<g ref="char:EOLhyphen"/>ons and events, by an indiſſoluble neceſſity; whereas we ſee, the evill of ſinne is by permiſſion onely, and the
+<pb n="23" facs="tcp:115761:15"/>evill of puniſhment is but the conſequence of that, which in it ſelfe is but Accidentall.</p>
+            <p n="5">5 This likewiſe ſerves a ground of confutation of ſuch who hold Contingency and Chance in all things ſubluna<g ref="char:EOLhyphen"/>ry, unto which unchriſtian opinion they would gaine Au<g ref="char:EOLhyphen"/>thority from that of the Wiſe man; <hi>That in all things there is Chance, Eccleſ.</hi> 9.22. Which is to bee underſtood unto meere humane conjecture onely, and for that the certaine cauſes of events (like thoſe of Sympathy and Antipathy) are hidden from us, which otherwiſe have their proper cauſes; for God is not <hi>Otioſus rerum spectator,</hi> a looker on onely upon humane affaires, and like <hi>Gallio</hi> to care for none of thoſe things that happen upon earth; for his infi<g ref="char:EOLhyphen"/>nite and alwayes ever active Providence extends even unto the moſt meane and interiour of his Creatures; even the leaſt lot that drops into the lappe is diſpoſed by him:<note place="margin">Prov. 16.33.</note> Sparrowes are not ſo gotten by him, the Lilies of the field are cared for, and the hayres of our head are numbred by him: That is, to ſhew us, that whatſoe<g ref="char:EOLhyphen"/>ver men account muſt vile and deſpicable is governed by divine Providence.<note place="margin">Hoc enim dixit, volens oſten<g ref="char:EOLhyphen"/>dere, quicquid viliſſimum ho<g ref="char:EOLhyphen"/>mines putant divinâ provi<g ref="char:EOLhyphen"/>dentiâ Gubernari. Aug. l. de Ago. Chriſtiano, cap. <hi>8.</hi> De<g ref="char:EOLhyphen"/>us qui nimiru<g ref="char:cmbAbbrStroke">̄</g> dum ſit ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per omnipotens, ſic intendit om<g ref="char:EOLhyphen"/>nibus ut adſit ſingulis: ſic adeſt ſingulis, ut ſimul om<g ref="char:EOLhyphen"/>nibus nunquam deſit. Sic ſummaregit ut ima non deſe<g ref="char:EOLhyphen"/>rit, ſic imis preſens eſt, ut a ſuperioribus non recedat. Gre. M, in Job l, <hi>16,</hi> cap, <hi>5,</hi>
+               </note> That of holy <hi>Gregories</hi> is an ample and pi<g ref="char:EOLhyphen"/>ous acknowledgement of the plenitude of divine Providence. God ſaith the Fa<g ref="char:EOLhyphen"/>ther, being alwayes omnipotent, ſo heeds all things, as though hee were preſent with every thing; he is ſo preſent with e<g ref="char:EOLhyphen"/>very ſingle and perticular thing, that he is never wanting unto all things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oge<g ref="char:EOLhyphen"/>ther: and a little after, hee ſo governes great matters, that he forſakes not ſmall things; hee is ſo preſent with inferiour things, that hee goes not from great mat<g ref="char:EOLhyphen"/>ters.</p>
+            <p>From this joynt ſurvey of the evill of ſinne, and of the evill of puniſhment, wee may perceive, the convenien<g ref="char:EOLhyphen"/>ty of all Chriſtian and earneſt exhortation unto all men;
+<pb n="24" facs="tcp:115761:16"/>carefully and induſtriouſly to decline ſinne, to flee it as the onely hurtfull thing unto us, the evill of ſinne which encompaſſeth us with ſo many evils of puniſhments, and this we may endeavour by the practice of theſe ſhort di<g ref="char:EOLhyphen"/>rections.</p>
+            <p>Firſt, By a Chriſtian and awefull circumſpection, and an holy jealouſie over all our actions, that ſinne inſinu<g ref="char:EOLhyphen"/>ate not into, or mix it ſelfe with them; this will preſerve us in the firſt onſets or beginnings of ſinne, whether by open invaſion, or by ſecret attempt, and practiſe, and this we may doe by a curious and dayly examination of all our actions, to take the moſt ſtrict account of them we poſſi<g ref="char:EOLhyphen"/>ble may; Next to make an even reckoning each day, by unfeigned Repentance unto God, of theſe our dayly treſ<g ref="char:EOLhyphen"/>paſſes and debts, in thought, word, and deed, which en<g ref="char:EOLhyphen"/>gage us unto theſe ſpirituall payments, the evils of pu<g ref="char:EOLhyphen"/>niſhments, for the evils of our ſinnes; this courſe will free us from the dominion and ſervitude of ſinne, in ſinning, in the inclinations unto ſinne, and in the puniſhments for ſinne.</p>
+            <p>Secondly, By moſt humble, earneſt, and frequent pray<g ref="char:EOLhyphen"/>er, for the divine aſſiſtance of Gods ſpirit, againſt the e<g ref="char:EOLhyphen"/>vill of ſinne; prayers (like <hi>Jonathans</hi> arrowes) never returne empty without ſome ſupplies of Grace to ayde us againſt ſinne: This courſe will cauſe continuall diſcove<g ref="char:EOLhyphen"/>ries of ſinne, and of the danger thereof unto us, and de<g ref="char:EOLhyphen"/>fend us againſt the power thereof; eſpecially let us pray that when opportunity to ſinne is preſent with us; God then in mercy would take from us a will to ſinne; and when wee have a will to ſinne God would graciouſly re<g ref="char:EOLhyphen"/>move the opportunity from us, and interpoſe ſuch power<g ref="char:EOLhyphen"/>full impediments that wee may not compleate an act of ſinne (eſpecially of a grievous ſinne) againſt God.</p>
+            <p>Thirdly, Let us ſtrive to gaine the power of a godly habit, by a conſtant and continued practice of all holy and pious duties, contemplative and practique; this will make ſinne odious, and the acts of piety moſt delightfull
+<pb n="25" facs="tcp:115761:16"/>unto us, ſurely the many evils of our paſt and impending puniſhments, may ſerve as ſo many powerfull arguments to prove the neceſſity, and perſwade unto the dractice of their Chriſtian duties: How have we been whipped, and ſharply ſcourged by God through Warre? How hath God for our ſinnes denyed ſucceſſe unto the moſt juſt cauſe; and rendred our Loyalties as uſeleſſe and unſerviceable un<g ref="char:EOLhyphen"/>to our Prince, as prejudiciall unto our ſelves?<note place="margin">Dan. 8.12.</note> how farre hath hee ſtretched his permiſſion unto our more ſinnefull Adverſaries to oppreſſe us engaged in the moſt righteous Quarrell? It is Gods puniſhment for our ſinnes, it was Gods act, it is from him that a people are miniſhed and brought low through oppreſſion, affliction, and ſorrow;<note place="margin">Pſal. 107.39.</note> whence we may ſee that although, the will and malice of our Adverſaries hath beene moſt unjuſt againſt us, yet their power hath beene moſt juſt, becauſe that was from God; (as Saint <hi>Auguſtine</hi> ſpeakes of the Romans againſt the Jewes) Their wickedneſſe was made Gods Axe to hew us: The wicked man puffeth at his enemies,<note place="margin">Impietas eorum tanquam ſecu<g ref="char:EOLhyphen"/>ris De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> facta <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. in Pſal. <hi>73.</hi>
+               </note> becauſe Gods judgements are farre above his ſight, ſayes the Pſalmiſt; their power was to puniſh us for our ſinnes; the conſide<g ref="char:EOLhyphen"/>ration whereof may ſerve a juſt ground to exhort us unto theſe Chriſtian acts enſuing.</p>
+            <p>Firſt, unto a ſubmiſſion of our ſelves unto Gods will, in all our preſſures: Secondly, unto the principall applica<g ref="char:EOLhyphen"/>tion of our ſelves in them unto God: Thirdly, unto a pa<g ref="char:EOLhyphen"/>tient expectation of Gods mercy and ſuccour in them: Fourthly, unto a breaking off from thoſe ſinnes have occa<g ref="char:EOLhyphen"/>ſioned them.</p>
+            <p>Firſt, Let us cheerefully ſubmit our ſelves in all theſe paſt and impending calamities unto the will of God: A<g ref="char:EOLhyphen"/>ged <hi>Ely</hi> when thoſe terrible judgements were denounced againſt himſelfe and his family, thus reſolves,<note place="margin">1 Sam. 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>It is the Lord let him doe what ſeemeth him good:</hi> So holy <hi>David</hi> in his flight from the unnaturall conſpiracy of his ſonne <hi>Abſolon</hi> ſignifies his ſubmiſſion, and the ready reſignation of his own will unto Gods will; <hi>Here am</hi> I (ſaith he) <hi>let the Lord
+<pb n="26" facs="tcp:115761:17"/>doe unto me as ſeemeth good unto him:</hi>
+               <note place="margin">2 Sam. 15.26.</note> Wherefore ſhould a man complaine for the puniſhment of his ſinnes, <hi>Jer.</hi> 3, 39. Such are all our preſent calamities unto us, and ſhall we receive good at the hands of God, and ſhall wee not receive evill, ſaith <hi>Job</hi> unto his fooliſhly repining Wife? <hi>Lupus</hi> the Biſhop of Rome ſaluted <hi>Attila,</hi>
+               <note place="margin">Job 2.10.</note> who depopu<g ref="char:EOLhyphen"/>lated Italy, with a <hi>ſalve flagellum Dei,</hi> welcome thou whip of God: A due regard unto the providence of God, without which nothing can happen unto us, is the beſt le<g ref="char:EOLhyphen"/>nitive in all dolorous Occurrents; this like <hi>Moſes</hi> wood will ſweeten Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, the bitter waters of afflictions unto us; this is a ſure ſtop unto all inordinate griefes, and intempe<g ref="char:EOLhyphen"/>rate ſorrowes, it doth fit and eſtabliſh our hearts, and diſchargeth them of that great ſinne of murmuring againſt God, as in <hi>David, I was aumbe,</hi> I <hi>opened not my mouth</hi> (ſaith he) <hi>becauſe thou didſt it:</hi>
+               <note place="margin">Pſal. 39 9.</note> This conforming of our owne wils unto Gods will, brings to paſſe that we ſtand perfect and compleate in all the will of God, <hi>Col.</hi> 4, 10. and will purchaſe unto us the ſupreamacy of all temporall bleſſings, an unſpeakable contentation in all the things of this life, either by a moſt thriving and happy exchange of our owne weake and perverſe wils, for Gods moſt perfect and bleſ<g ref="char:EOLhyphen"/>ſed will; or it will procure a condeſcention in Gods will unto our wils, in either of which wee ſhall archieve thoſe victorious Prophees, which alwaies waite upon that moſt glorious tryumph due unto a Chriſtian conqueſt over our ſelves; ſo ſpeakes the conſcientious He<g ref="char:EOLhyphen"/>brew. Doe his will as thy will,<note place="margin">Fac voluntatem, ejus ſicut voluntatem tuam, ut ipſe fa<g ref="char:EOLhyphen"/>ciat voluntatem tuam ſicut voluntatem ſuam, fac vo<g ref="char:EOLhyphen"/>luntatem tuam ſicut volun<g ref="char:EOLhyphen"/>tatem ejus, ut ipſe irritam faciat voluntatem aliorum, propter voluntatem tuam. Druſins vet. ſap. Gno.</note> that hee may make thy will as his will; make thy will as his will, that he may fruſtrate the will of others, for thy will.</p>
+            <p>This conformity of our wils unto Gods is the abſolute and free Monarchy of the eternall Monarch God in our ſouls, whoſe alone ſervice is perfect freedome: This is the gift and aſſignation of our hearts unto God, whoſe juſt demand it is. My ſonne
+<pb n="27" facs="tcp:115761:17"/>give me thy heart; he hath given all unto God that gives this.</p>
+            <p>Next this gives an indefezible right unto Heaven: not every one that ſaith Lord, Lord,<note place="margin">Mat. 7.11.</note> ſhall enter into the King<g ref="char:EOLhyphen"/>dome of Heaven, but hee that doth the will of my Father which is in Heaven:<note place="margin">1. Joh. 2.17.</note> The World (ſaith Saint <hi>John</hi>) paſ<g ref="char:EOLhyphen"/>ſeth away, and the luſts thereof, but hee that doth the will of God abideth for ever: And unto this cheerefull ſub<g ref="char:EOLhyphen"/>miſſion of our ſelves under the good hand of God, let us adde:</p>
+            <p>Secondly, An immediate application unto Almighty God, and an humiliation of our ſelves before him, from whom theſe judgements come,<note place="margin">Job. 16.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that hee would in mercy reverſe them; this was holy <hi>Jobs</hi> practice, My friendes ſcorne me (ſaith he) but mine eyes poure out teares unto the Lord; becauſe it was God that permitted his friendes to ſcorne him: ſo King <hi>David</hi> when foule mouth'd <hi>Shemei</hi> curſed him. <hi>David</hi> replyes unto <hi>Abiſhai,</hi> that would have kild the Rayler; Let him curſe becauſe the Lord hath ſaid unto him curſe <hi>David:</hi>
+               <note place="margin">2 Sam. 16.10.</note> Thus <hi>Jehoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phat</hi> environed with the multitude of his enemies, cryes out, Lord wee know not what to doe, but our eyes are upon thee;<note place="margin">2. Chron. 20.12.</note> but alaſſe how many of us like mad dogs bite at the ſtone, and looke not at the hand whence it was flung? whereas if we had recourſe unto God as the firſt cauſe, he would reverſe the decree againſt us, as hee revoked the Commiſſion given unto the deſtroying Angell in King <hi>Davids</hi> time: Let us thoroughly humble our ſelves before God for the evils of our ſinnes, and the evils of our puniſhments will ceaſe:<note place="margin">Micah. 6.8.</note> When we walke humbly with our God.</p>
+            <p>Thirdly, Let us have a patient expectation of Gods mercies and ſuccours unto us;<note place="margin">Rom 5.3.</note> patience is the proper and divine effect of affliction;<note place="margin">Pſal. 51.18.</note> God in his good time will doe good unto Sion and build the wals of Jeruſalem; and this appointed time with <hi>Job</hi> we are to waite for: Waite on the Lord,<note place="margin">Pſal. 27.14.</note> be of good comfort and he ſhall ſtreng then your heart, ſurely the patient abiding of the meake ſhall not
+<pb n="28" facs="tcp:115761:18"/>miſcarry, but bring forth a joyfull and mature iſſue; the frequent reading,<note place="margin">Pſ 62.5.</note> and meditating upon the 37 Pſalme, will eaſily ſuppreſſe the ſedition and mutiny of our mur<g ref="char:EOLhyphen"/>muring and repining thoughts, at the proſperity of violent men, who ſhall not bee eſtabliſhed upon earth: But let us with holy <hi>David,</hi>
+               <note place="margin">Pſ. 123.2.</note> as the eyes of ſervants look up to the hand of their Maſters, and as the eyes of a may den unto the hand of her Miſtreſſe ſo let our eyes waite upon the Lord our God, untill he have mercy upon us.</p>
+            <p>Laſtly, Let us breake off the former evils of our ſinnes, which have drawne theſe evils of puniſhments upon us: It is holy <hi>Jobs</hi> counſell, ſurely it is meet to be ſaid unto God, I have borne chaſtiſment,<note place="margin">Joh 34.31, 32.</note> I will not offend any more; that which I ſee not teach thou me; if I have done iniquity I will doe no more: Saint <hi>Paul</hi> when he was ſtruck downe unto the earth by God, cryes out, Lord what wilt thou have me to doe?<note place="margin">Acts 96.</note> he was then forbiden to perſecute Chriſt and to be converted; ſo we being ſmitten by the hand of God, if we enquire of him what hee will have us to doe, anſwer will bee made us, That wee muſt not perſecute Chriſt, or crucifie againe unto our ſelves the Lord of life by our ſinnes, but breake them off by righteouſneſſe, and repentance,<note place="margin">Dan 4.27.</note> and bee converted that God may heale us; Gods judgements heretofore like <hi>Jonathans</hi> ſignall arrows with <hi>David</hi> were ſhot beyond us,<note place="margin">Acts 3.19.</note> but now they are come on this ſide of us; ſo that moſt of us may ſay with <hi>Job,</hi> I have heard of thee by the hearing of the care, but now mine eye ſeeth thee;<note place="margin">Job. 42. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 56.</note> we have heard of God in his judge<g ref="char:EOLhyphen"/>ments towards others, but now our owne eyes ſee him in his judgements upon our ſelves; let every of us then with <hi>Job</hi> ſay, Wherefore I abhorre my ſelfe and repent in duſt and aſhes.</p>
+            <p>If wee deſire a liſt of thoſe ſinnes for which God pu<g ref="char:EOLhyphen"/>niſheth a people with Warre, the evils of our preſent puniſhments, ſerve as an Index to referre us unto them.</p>
+            <p>Firſt, Our inordinate exceſſe in meate and drinke, and
+<pb n="29" facs="tcp:115761:18"/>luxury, in apparrell,<note place="margin">Iſ. 5.11, 12 &amp; 25, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> Warre and deſolation alwayes waite upon this ſin, ſo the Prophet <hi>Iſaiah cap.</hi> 5.</p>
+            <p>Secondly, Our unthankfulneſſe for temporall benefit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, plenty and the good things of this life, this ſinne is atten<g ref="char:EOLhyphen"/>ded with Warre for a puniſhment thereof, <hi>Dent.</hi> 28.47, 48. Becauſe thou ſervedſt not the Lord thy God, with joyful<g ref="char:EOLhyphen"/>neſſe and gladnes of heart, for the abundance of all things, therefore ſhalt thou ſerve thine enemies, which the Lord ſhall ſend againſt thee, in hunger and in thirſt, and in na<g ref="char:EOLhyphen"/>kedneſſe, and in want of all things.</p>
+            <p>Thirdly, Our diſobedience unto, and neglect of the good word of God, ſo much read and preached amongſt us; this ſinne brings Warre upon a people: As againſt the Jewes, <hi>Dent.</hi> 28. <hi>v.</hi> 45. Becauſe they hearkned not unto the voice of the Lord their God, to keepe his Commandements and his Statutes which he commanded them, <hi>v.</hi> 48. Therefore ſhould they ſerve their enemies.</p>
+            <p>Fourthly, The generall contempt of the Clergy, Gods Lot, whoſe contempt God interprets his owne, and will alwayes puniſh: Warre is the cloſe comerade unto this ſinne; this ſinne brought deſtruction upon the Kingdome of Judah, 2 <hi>Chron.</hi> 26. <hi>v.</hi> 16, 17. They mocked the Meſſen<g ref="char:EOLhyphen"/>gers of God and deſpiſed his words and miſuſed his Pro<g ref="char:EOLhyphen"/>phets, untill the wrath of the Lord aroſe againſt his peo<g ref="char:EOLhyphen"/>ple untill there was no remedy; Therefore he brought up<g ref="char:EOLhyphen"/>on them the King of the Caldees.</p>
+            <p>Many good men free from the leaſt taint of theſe recited ſinnes,<note place="margin">Object.</note> have notwithſtanding beene deeply plunged in the miſeries of Warre.</p>
+            <p>Beſides that,<note place="margin">Anſw.</note> that the beſt of Gods Saints may with the Lepers cry, Uncleane, uncleane; that Gods judgements (who can doe nothing unjuſtly) are a great deepe; that the ſinnes of our Progenitors (of which wee are a part) or an approbation of ſinne, or neglect of the puniſhment due thereunto in our power,<note place="margin">Dan. 12 10.</note> may involve the beſt of men in temporall puniſhments:<note place="margin">Rev. 2.10.</note>) All afflictions and calamities are not puniſhments for ſinne, ſome are for the tryall of
+<pb n="30" facs="tcp:115761:19"/>faith, and the addition of grace and glory unto Gods chil<g ref="char:EOLhyphen"/>dren: All things ſhall worke together for good unto them that love God (ſaith the Apoſtle) <hi>Rom</hi> 8.28. The love of God is the ſole ſoveraigne corrective of the vitulency of affliction, and makes it wholeſome and beneficiall unto us: Divinely Saint <hi>Auguſtine.</hi> Thoſe that love God,<note place="margin">In omnibus cum bonum in<g ref="char:EOLhyphen"/>venient, ſive emendantem, ſive conſolantem, ſive excer<g ref="char:EOLhyphen"/>centem, ſive purgantem, ſive Illuminantem: In Pſalm. <hi>124.</hi>
+               </note> ſhall finde him good in all things, whether (by afflictions) amending them, comforting them, exerciſing them, crowning them, purging them, or enlight<g ref="char:EOLhyphen"/>ning them.</p>
+            <p>But there is yet ſome thing lodged in thoſe words ſeemes to guide us to a fur<g ref="char:EOLhyphen"/>ther application; the Prophet ſpeakes of bringing the e<g ref="char:EOLhyphen"/>vill of Warre upon a City: That City was <hi>Samaria,</hi> the Metropolis of the Kingdome of Iſrael, and are not thoſe ſinnes which brought Warre upon her, viſibly raigning in <hi>London</hi> our Metropolis: <hi>Samaria</hi> was choſen the ſeate of the new erected Kingdome of the ten Tribes of Iſrael, who withſtood the Kingdome of the Lord in the hands of the ſonnes of <hi>David.</hi>
+               <note place="margin">2 Chron. 13.8.</note>
+            </p>
+            <p>
+               <hi>London</hi> is choſen the ſeate of a new Antimonarchicall Government, by ſuch who withſtand the Kingdome of God in the hand of the ſonne of King <hi>Henry</hi> the ſeventh, who united thoſe bloody differences in the Houſes of <hi>York</hi> and <hi>Lancaſter,</hi> and of King <hi>James</hi> the peaceable, who u<g ref="char:EOLhyphen"/>nited the Kingdomes.</p>
+            <p>
+               <hi>Samaria</hi> was the chaire of violence and ſeate of oppreſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">Amos 3.10, 4.</note> the Inhabitants of <hi>Samaria</hi> ſtored up violence and robbery in their Palaces, they oppreſſed the poore and cruſht the needy; their wealth and power ſerved them un<g ref="char:EOLhyphen"/>to oppreſſion; and hath the wealth and power of this City of late beene more happily imployed? have not theſe been the chiefe Inſtruments to oppreſſe a moſt gracious and pi<g ref="char:EOLhyphen"/>ous Prince, to cruſh his poorer party, and overpower a good Cauſe? ſo that beſides that they have divided with us in the guilt of thoſe War-boading ſinnes, inordinate
+<pb n="31" facs="tcp:115761:19"/>exceſſe in meate and drinke, luxury, in apparrell, unthank<g ref="char:EOLhyphen"/>fulneſſe for, and diſobedience unto the word of God, and contempt of Gods Miniſters; yet hath this City outvyed, and outbid us for Gods great judgement, (Warre) by one ſinne more then we, oppreſſion: and herein equald <hi>Samaria</hi> in her ſinne: God in mercy prevent that ſhee par<g ref="char:EOLhyphen"/>take not with her in puniſhment, and grant unto this City timely repentance to prevent thoſe great calamities which (as thick clouds beſpeake raine and tempeſts) by many ſad prognoſtiques ate threatned unto her: Looke upon her now, (not without earneſt bowels) diveſted of all thoſe things, wherein ſhee promiſed unto her ſelfe ſecurity, wherein ſhe truſted, and in which her great ſtrength lay; unity of affection is loſt in her, there being ſo many diffe<g ref="char:EOLhyphen"/>rent Abettors of matters in Faith, as were diverſity of o<g ref="char:EOLhyphen"/>pinions among the Heathen Philoſophers about the <hi>Sum<g ref="char:EOLhyphen"/>mum bonum,</hi>
+               <note place="margin">Auguſt.</note> which are reckoned above three hundred: Religion (the moſt firme and faſt knot of concord) as in the Church of <hi>Sardis.</hi> hath a name (in her) that it is li<g ref="char:EOLhyphen"/>ving,<note place="margin">Rev. 3.1.</note> but it is dead; for that having itching eares ſhee hath multiplyed unto her ſelfe teachers, who differ as much in their judgements, as the builders of Babell at the di<g ref="char:EOLhyphen"/>viſion of tongues, did in their language, ſcarce two of them ſpeaking the ſame thing: Her ancient Lawes are turned into the arbitrary power of her paſſionate Rulers, her glorious Liberties and Priviledges are upon their death<g ref="char:EOLhyphen"/>bed, and at the laſt gaſpe; the menaces of private perſons being able to extort more Treaſure from her, then by the intreaties of her borne Soveraignes in many ages could be borrowed from her: her chiefe ſtrengths are made cau<g ref="char:EOLhyphen"/>tionary, her munitions aliened, her workes and fortifica<g ref="char:EOLhyphen"/>tions ſlighted: Behold her now (not without pity and teares) like poore <hi>Sampſon,</hi> luld aſleepe by the Harlot <hi>Da<g ref="char:EOLhyphen"/>lilah,</hi> the hands of her Government tyed behinde her, rea<g ref="char:EOLhyphen"/>dy to have the large and faire Nazarite lockes of her great and growing wealth quite cut off, the eyes of her Reli<g ref="char:EOLhyphen"/>gion puld out, and then ſhee will bee forced like him to
+<pb n="32" facs="tcp:115761:20"/>grinde <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Mill for others food, be ſubjected unto ſlave<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and no ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectation of a fre<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h burying her ſelfe with the Authors or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heir common mines: O Lord by the power of thy gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effectually move the hearts of the people of this City unto repentance, that thou, O Lord, mayſt remove from them th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe thy impending pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſhments. Our Pro<g ref="char:EOLhyphen"/>phet to prevent this puniſhment of War from <hi>Samaria,</hi> in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he perſon of God ſpeakes unto that City thus, <hi>Seek yee me and yee ſhall live, Amos</hi> 5.4. So if this City ſeeke God in her fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er purity of Religion and his worſhip, and her former in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty of loyall affection unto the image of God in place and perſon, his ſacred Majeſty, ſhee ſhall live and continue in her ancient luſtre and happineſſe; otherwiſe it is no Enthuſiaſme from the evils of her ſins, to infer the evils of her puniſhments; God grant that as among this people ſhe was the firſt in the tranſgreſſion and ſin, ſo ſhe may lead the way unto repentance in obedience.</p>
+            <p>But for theſe mighty Ones,<note place="margin">A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1.</note> 
+               <hi>The Kine of Baſhan,</hi> that have neſtled themſelves in the Mountaine of our <hi>Samaria,</hi> let them as in a ſmall Map behold the vaſt continent and large and yet undiſcovered Regions of the evils of their ſinne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſee if they have not outſtript the Grandees of the King<g ref="char:EOLhyphen"/>dome of Iſrael in all their impieties.</p>
+            <p>Did oppreſſion ever cry more loudly unto Heaven then now, did ever any profeſſing the name of Chriſt ſo afflict and oppreſſe their poore brethren as theſe men have done? and that for conſcientiouſly (for the greater part) adhe<g ref="char:EOLhyphen"/>ring unto their Soveraigne Lord; have not they oppreſſed the ſervants and ſubjects of our Lord the King, with in<g ref="char:EOLhyphen"/>ſupportable <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines, cruell mockings, filthy poverty, heavy bonds, cloſe impriſonments, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keſome baniſhments, vio<g ref="char:EOLhyphen"/>lent deaths? Surely were all Hiſtory utterly loſt, the pre<g ref="char:EOLhyphen"/>ſent ſufferings of the beſt Subjects would abundantly fur<g ref="char:EOLhyphen"/>niſh poſterity with as various as true examples of thoſe many miſeries mankinde is ſubject unto; and as though it were not enough with the Samaritane Potentates,<note place="margin">Amos <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8.</note> to drink
+<pb n="33" facs="tcp:115761:20"/>the wine of the condemned; to glut and ful gorge themſelves with their fines and fortunes, or as though the many prejudi<g ref="char:EOLhyphen"/>ces ſuſteined by War were too little, like <hi>Syllas</hi> victory, the period of this war commeth greater cruelties againſt them: peace contends with war in cruelty and hath overcome it,<note place="margin">Syllana victoria, &amp;c. finite jam Bello crudelius in pace graſſata eſt, &amp;c. Aug. de C. D. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>3.</hi> c, <hi>28.</hi> Pax cum Bello de Crudelitate certavit, &amp; vicit: Illud enim proſtravit Armatos iſta nudatos. Bel<g ref="char:EOLhyphen"/>lum erat ut qui feri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>batur ſi paſſet feriret, pax autem non ut qui evaſerat viveret, ſed ut moriens non repugnaret, ibid.</note> for that overthrew armed men onely, this naked men. The condition of the war was that he who was wounded might ſtrike and wound againe; but the condition of this peace is, not that he who eſcaped the fury of war ſhould live, but that dying hee ſhould make no reſiſtance: Yea it notoriouſly ſuperads unto the malignity of all their in<g ref="char:EOLhyphen"/>ſolent oppreſſions, that they impiouſly and impudently countenance them with the face of equity, thus (as the Rulers in <hi>Samaria</hi>) turning juſtice into wormwood, and eſta<g ref="char:EOLhyphen"/>bliſhing iniquity by a Law: and of what an infinite extenſion this their iniquity in oppreſſion is, appeares,<note place="margin">Amos 5.7.</note> in that it not onely reacheth unto mens lives and temporall e<g ref="char:EOLhyphen"/>ſtates,<note place="margin">Pſal. 94.20.</note> but even their ſoules and that great intereſt of future bleſſedneſſe; in the committall of that ſin of farre more viſible deformity and worſe aſpect even then murther, <hi>Sacriledge;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>(which by ſo much exceeds murther in guilt, as the concerne<g ref="char:EOLhyphen"/>ment of the ſoule is to be preferred before that of the body,) whereby they have ſeized into their hands Church mainte<g ref="char:EOLhyphen"/>nance, not onely deſtroying (as the Heathen perſecutors did) <hi>Presbyteros,</hi> the Prieſts, but with Apoſtata <hi>Julian, ipſum preſ<g ref="char:EOLhyphen"/>byterium,</hi> the very Prieſthood it ſelfe, killing both Learning and Religion in the root, by the taking from it that double nouriſhment ordained by God for it, both the reward of main<g ref="char:EOLhyphen"/>tenance and of honour,<note place="margin">1. Tim. 5.17.</note> Eccleſiaſticall endowments and digni<g ref="char:EOLhyphen"/>ties; and to further this ſacrilegious deſigne, they have as <hi>Je<g ref="char:EOLhyphen"/>roboam</hi> caſt out the Prieſts of the Lord, the ſons of <hi>Aaron</hi> the Levites, the Orthodox Clergy,<note place="margin">2. Chron. 13.9.</note> (who have left their poſſeſſions to adhere to the houſe of <hi>David,</hi>
+               <note place="margin">2. Chron. 11.13, 14.</note> and preſerve Loyalty) and made unto themſelves Prieſts of the loweſt of the people; the
+<pb n="34" facs="tcp:115761:21"/>loweſt and moſt deſpicable, either in ability or integrity, be<g ref="char:EOLhyphen"/>cauſe theſe low men prove the beſt ſetters for their ſacrilegious purpoſes, and therefore as <hi>Jeroboam</hi> did, that they may have the cheapeſt and leaſt coſtly Religion, and that the ſurpluſage of Church endowments may come into their private purſes, they allow every man to be his owne Prieſt, unto that end tollera<g ref="char:EOLhyphen"/>ting all ſchiſmes and hereſies, and patronizing even Ignorance it ſelfe, which cannot but beget ſuperſtition, and that wil in<g ref="char:EOLhyphen"/>troduce popery, ſo that theſe pretended Patriots build up what they ſeeme to pull downe, and make themſelves tranſgreſſors; yea this their ſin, ſacriledge, is yet of a more horrible influence, if we conſider the probable operation it will have upon poſte<g ref="char:EOLhyphen"/>rity, unto whom it threatneth Atheiſme and Irreligion, not onely a falſe Religion, but even no Religion at all: and with this concurs their,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Corruption</hi> of the received worſhip of God in Doctrine and Diſcipline: that ancient doctrine of Chriſt J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſus, his A<g ref="char:EOLhyphen"/>poſtles,<note place="margin">Mat. 22.21.</note> and of the Primitive Church, the neceſſity of Chriſtian obedience unto the ſupream<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Magiſtrate,<note place="margin">1 Pet. 2.13, 17</note> they have (like ſalt that hath no ſavor with them) caſt out of dores and trodden under feet;<note place="margin">Rom. 23.1, 2.</note> what horrid impr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties doe they broach publikely in their Pulpits, in making God the author of their ſins, from his permiſſion argue his approbation, from a naturall power to doe an act; infer the divine juſtice and equity thereof: That an undertaking is holy and lawfull becauſe anſwered by ſucceſſe, that the accompliſhment of their paſſionate wils is Gods bleſ<g ref="char:EOLhyphen"/>ſing and goodnes unto them: what is Turciſme if this be not?<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.25.</note> Thus doe they dayly uſe force unto the holy Scriptures by a moſt pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſterous and wicked application of all the promiſes, of God unto themſelves, and their irreligions practices, and a denunciation of the threats and puniſhments in Gods word, unto ſuch as arrive not at the ſame pitch of impiety with them that moſt ſelect choice of heavenly prayers, judiciouſly culd out of the beſt Liturgies of the Eaſtern and Weſtern Churches, elder (then what they reproach it with) Popery, received with our firſt and onely true Reformation, approved by Gods bleſ<g ref="char:EOLhyphen"/>ſing our Kingdome in their uſe, which reached all our neceſſi<g ref="char:EOLhyphen"/>ties,
+<pb n="35" facs="tcp:115761:21"/>with which God and his people were acquainted, to eve<g ref="char:EOLhyphen"/>ry clauſe whereof we could ſafely ſay Amen. [the booke of Common prayer and Adiniſtration of the Sacraments] theſe men have (not without <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oody violence) caſt out of their Synagogues, and in ſtead of theſe introduced long, tedious, oft repeated and unpremeditate, raſh and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umultuary prayers:<note place="margin">Mat. 6.7.</note> ex<g ref="char:EOLhyphen"/>ploded by our Saviour, checked by Scriptures,<note place="margin">E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cleſ. 5.2.</note> forbidden by Councels and the Doctors of the Church:<note place="margin">H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. 14.2.</note> How can a ſober devotion accompany that exp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſion,<note place="margin">Concil <hi>1</hi> Bra<g ref="char:EOLhyphen"/>car. Can. <hi>30.</hi> Concil. Milever<g ref="char:punc">▪</g> c. <hi>12.</hi>
+               </note> it is not yet poſſeſſed with untill it come unto a period; and then perhaps an aſſent can hardly be gained unto it? how can a new faſhioned and unknowne apparrel of zeale be fit ſhaped unto our thoughts?<note place="margin">Aug. in Pſ. <hi>8<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Greg M. in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob lib. <hi>22.</hi> c. <hi>2.</hi>
+               </note> or how can we be acquainted with the piety of thoſe petitions the Preacher himſelſe knowes not before they are muſtred by his utterance for a ful ſentence. Are not the greateſt part of their prayers, unſhapen Embryons of their paſſions, fond ex<g ref="char:EOLhyphen"/>poſtulations with God, thin, uſeleſſe and weake Cobwebs of their fancies, and in thoſe for the Kings Majeſty, there is not ſo much of prayer for him, as of Satyr to abuſe him: that an<g ref="char:EOLhyphen"/>cient forme of Church government Epiſcopacy (the fence of the Church and Church men) derived in a continual ſeries from Chriſts Apoſtles unto theſe times have they ſuppreſſed, and moſt injuriouſly and falſly ſtigmatized Antichriſtian.</p>
+            <q>Tantae molis erit Romanam condere Gentem:</q>
+            <p>So deerly is the erecting of this new and Antimonarchical go<g ref="char:EOLhyphen"/>vernment like to coſlus, ſo they may arrive at their owne am<g ref="char:EOLhyphen"/>bitious ends, they care not if Heaven and Earth meete toge<g ref="char:EOLhyphen"/>ther and the old Chaos of confuſion ſucceed; this is the cauſe why,</p>
+            <p>They have no ſympathy or fellow-feeling with the ſuffer<g ref="char:EOLhyphen"/>ings of their brethren, it is not to be marveiled at, that they <milestone type="tcpmilestone" unit="unspecified" n="4"/> grieve not at the ſufferings of their other brethren, ordinary men; when they grieve not at the afflictions of <hi>Joſeph,</hi>
+               <note place="margin">Amos 6.6.</note> their eldeſt brother, (for he had the birthright) and for the beſt of men, their Prince a true <hi>Joſeph;</hi> having ſuſteined the ſame in<g ref="char:EOLhyphen"/>juries from his people, that <hi>Joſeph</hi> did from his brethren: for <hi>Joſeph</hi> going out to enquire of his brethrens welfare;<note place="margin">Gen. 37.</note> firſt they
+<pb n="36" facs="tcp:115761:22"/>mock him, ſecondly they ſtrip him, thirdly they endanger his life, and laſtly they ſould him: and how hath a packt and pre<g ref="char:EOLhyphen"/>valent party under the ſpecious pretenſions of making him a glorious Prince, of enlarging his Revenues, of reforming Reli<g ref="char:EOLhyphen"/>gion, reſtoring of liberty and property unto the ſubject, mock<g ref="char:EOLhyphen"/>ed him (who went to ſee them in a condeſcention unto their good) ſtripped him of his Regal power, often hazarded his life; and if his owne brethren ſould him not (and if they did this <hi>Joſeph</hi> wil eaſily be reconciled unto them) yet theſe men (ſad experience ſhewes us) bought him: The vertues of this <hi>Joſeph</hi> our Soveraigne is too excellent a peece to be copied out by an unskilful pencil; yet I may adventure without imperti<g ref="char:EOLhyphen"/>nency or digreſſion from the ſpiritual features, and divine gra<g ref="char:EOLhyphen"/>ces in <hi>Joſeph</hi> (taken out of the Scriptures) to ſhew you how as perfect paralels and equal lines they concentrate in his ſacred Majeſty: <hi>Joſephs</hi> memory ſhould be precious, and his afflicti<g ref="char:EOLhyphen"/>ons grievous unto his brethren for his prerogatives and ver<g ref="char:EOLhyphen"/>tues, and that in theſe reſpects:</p>
+            <p>Firſt, for the honour given him by God (the birthright) for although <hi>Reuben</hi> were <hi>Jacobs</hi> natural Heire, and <hi>Judah</hi> his ſpiritual Heire,<note place="margin">Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 48.22.</note> yet <hi>Joſeph</hi> was <hi>Jacobs</hi> actual Heire; what <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> recovered by his Sword and his bow out of the hand of the Amorites, was aſſigned unto him and his poſterity.</p>
+            <p>Secondly, for his exemplary chaſtity and fidelity.</p>
+            <p>Thirdly, for his predictions, and providence in ſaving his Brethren.</p>
+            <p>Fourthly, for the cauſe of his ſufferings.</p>
+            <p>Fifthly, for his patience in his ſufferings.</p>
+            <p>Sixthly, for his eaſineſſe to forgive his Brethren who had injured him.</p>
+            <p>Our Soveraigne Lord and Prince was honoured by Almigh<g ref="char:EOLhyphen"/>ty God with the Birthright and Crowne of three Kingdomes, of unblemiſhed chaſtity, and untainted fidelity in that truſt and charge repoſed in him by his Maſter God, of his Church and people, witneſſe his denyal of ſubſcription unto the Acts for the Aboliſhing of Biſhops and ſale of Church Lands; and thoſe other Acts lately preſented unto him, wherein the Liberty and
+<pb n="37" facs="tcp:115761:22"/>property of the ſubject were ſo much concerned: By ſubſcrip<g ref="char:EOLhyphen"/>tion unto which he might have purchaſed his Liberty; how often hath he foretold of the deſtructive courſes of thoſe who ſtand in oppoſition unto him, and with what providence hath he withheld his concurrence with them to ſave the Kingdoms from deſtruction? what have been the cauſes of his ſufferings, but that he hath been ſo conſcientious as not to joyne with theſe men in their oppreſſion, ſacriledge, corruption of the worſhip of God in Doctrine and Diſcipline; and that he hath had a ſympathy and fellow feeling with the ſufferings of his ſubjects whom he reſolveth never to abandon? and of what a ſweet facility and divine eaſineſſe he is to remit and forgive al the injuries and inſolencies of his people againſt him; his fre<g ref="char:EOLhyphen"/>quent offers of an Act of Indempnity ſufficiently ſpeake: Yet notwithſtanding all theſe divine Prerogatives and vertues of our <hi>Joſeph,</hi> theſe men are not grieved for his afflictions: great and heavy afflictions indeed if we conſider his violent expul<g ref="char:EOLhyphen"/>ſion from his unqueſtioned Patrimony, and right of regal go<g ref="char:EOLhyphen"/>vernment, his reſtraint from Gods houſe, the place of Gods publique worſhip, the Church, from the Miniſtry of the Prieſts of the Lord, the Orthodox Clergy, from the fellowſhip of his royal Conſort, his moſt beloved wife the Queenes Majeſtie, from the ſociety of thoſe deareſt pledges, his ſweet Children, from the attendance of his faithful ſervants to bee narrowly confined and impriſoned, and (which is worſe then impriſon<g ref="char:EOLhyphen"/>ment) to be neceſſitated, to converſe with beaſts after the man<g ref="char:EOLhyphen"/>ner of men ſavage and barbarous perſons; can any ſorrow be like unto this ſorrow? is not this to be <hi>Vir dolorum,</hi> a man of ſorrowes and acquainted with griefe, and to lye under the hea<g ref="char:EOLhyphen"/>vieſt burthen of afflictions? yet for all this (as if they had been nurſed up by Tygars) theſe men are not grieved, but rather ex<g ref="char:EOLhyphen"/>ult and rejoyce in the afflictions of this our Royal <hi>Ioſeph.</hi>
+            </p>
+            <p>Theſe are the evils of theſe mens ſins, the words of the Pro<g ref="char:EOLhyphen"/>phet wil warrant me the boldneſſe of a ſhort expoſtulation with them: Surely they wil not deny but their diſobedience is clearly checked by the word of God, and the beſt interpre<g ref="char:EOLhyphen"/>ter thereof (the practice of the Primitive and pureſt times) So
+<pb n="38" facs="tcp:115761:23"/>that they have no power as unto an authority, or lycenſe to run courſes of diſobedience unto their Soveraigne Lord; and for Gods permiſſion unto their power and wil, as unto an abi<g ref="char:EOLhyphen"/>lity, they cannot thence infer the equity of their actions, ſee<g ref="char:EOLhyphen"/>ing ſuch power and even ſucceſſes themſelves, are puniſhments for ſin, where the act is not licenſed by God &amp; grounded upon divine authority: but theſe men cannot plead a ful permiſſion unto their ability, God dayly oppoſing powerful impediments unto it; by War the diſſent of his ſacred Majeſty the reſent<g ref="char:EOLhyphen"/>ment of their fellow Subjects, differences and fractures a<g ref="char:EOLhyphen"/>mongſt themſelves; ſo that notwithſtanding their long and deepe contrivances, their diſſembled pretentions, knotty Cove<g ref="char:EOLhyphen"/>nants, huge preparations, vaſt and ſtrong confederations, they cannot perfect their impious intendments; (God in mercy unto the three Nations oppoſe ſufficient impediments unto them) and although arguments are offered, and opportunities preſented unto them; yet they ſhal no wayes have the directi<g ref="char:EOLhyphen"/>on, limitation, and diſpoſition of this prodigious Twin; The powerful pride and armed envy of theſe laſt &amp; perilous times; Soveraignty and Church maintenance; for which (as the Roman Soldiers did for Chriſts Coate) they caſt Lots for; ſhal never come into their hands, but if ever (even then for the greateſt puniſhments) it wil come unto them like <hi>Joſephs</hi> Coate, torne and dipt in blood; uſeleſſe and bloodily: God give them grace to repent of this their wickedneſſe if perhaps the thoughts of their hearts may be forgiven them;<note place="margin">Acts 8.22, 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> for they are in the gall of bitterneſſe and bond of iniquity, otherwiſe as they have beene like unto the Samaritane Potentates in their puniſhments. <hi>Amos.</hi> 4.2. The Lord God hath ſworne by his holineſſe that loe the day ſhal come upon you, that he wil take you away with Hookes, and your poſterity with fiſh-hookes. Let them not longer tryumph in our miſeries; we juſtly referre the power given them unto God, and ac<g ref="char:EOLhyphen"/>knowledge our ſinnes the cauſes of our calamities; they were the rod in Gods hand to ſcourge us, hee directed and limited their malice againſt us,<note place="margin">Pſal. 124.3.</note> otherwiſe they had ſwallowed us up quick when their wrath was kindled againſt us; wee have
+<pb n="39" facs="tcp:115761:23"/>learnt that God ſometimes by wicked per<g ref="char:EOLhyphen"/>ſons exerciſeth good men,<note place="margin">Aliquando Iratus homo ap<g ref="char:EOLhyphen"/>prehendit virgam jacentem in medio, fortaſſe qualecun<g ref="char:EOLhyphen"/>que ſarmentum: cadit inde filium ſuum, ac deinde pro<g ref="char:EOLhyphen"/>jicit ſarmentum in ignem, &amp; filio ſervat haereditatem: ſic aliquando Deus per malos e<g ref="char:EOLhyphen"/>rudit bonos, &amp; per tempora<g ref="char:EOLhyphen"/>lem potentiam damnando<g ref="char:EOLhyphen"/>rum, exercet diſciplinam li<g ref="char:EOLhyphen"/>berandorum. Aug. in Pſal. <hi>73.</hi> Prov. <hi>16.7.</hi>
+               </note> and by the tem<g ref="char:EOLhyphen"/>porall power of them that are to bee dam<g ref="char:EOLhyphen"/>ned, diſciplineth them that will be ſaved; we comfort our ſelves in this aſſurance that when wee have thoroughly humbled our ſelves before our God, hee will make our moſt potent enemies to be at peace with us; they ſhall not have a wil, or if that, not a power to hurt us: When the French reco<g ref="char:EOLhyphen"/>vered <hi>Callis,</hi> a Commander of that Nation jeeringly demanded of an Engliſh Captaine, when would the Engliſh recover that place? who religiouſly replyed; When your ſins are greater then ours: And this was but an extract out of the divine dictate of our Prophet, to ſeeke God that ſtrengtheneth the ſpoyled againſt the ſtrong; ſo that the ſpoyled ſhal come againſt the Fortreſſe.<note place="margin">Amos 5.8 9.</note> The Pſalmiſt aſſures us that if we hear<g ref="char:EOLhyphen"/>ken unto God and walke in his wayes,<note place="margin">Pſ. 81.13, 14.</note> God will ſoone ſub<g ref="char:EOLhyphen"/>due our enemies, and turne his hand againſt our Adverſaries;<note place="margin">Iſ. 9.4.</note> the Prophet <hi>Iſaiah,</hi> that God will breake the rod of our Op<g ref="char:EOLhyphen"/>preſſor, and that his wrath and anger ſhall ceaſe in their de<g ref="char:EOLhyphen"/>ſtruction, God ſhall breake in peeces our Oppreſſors, and caſt his rod into the fire;<note place="margin">Iſa 10 25.</note> and make us againe families like ſheep<g ref="char:EOLhyphen"/>foulds, and bleſſe our later end more then our beginning;<note place="margin">Pſ. 72 4.</note> the Hypocrite ſhall not longer raigne,<note place="margin">Job 42.12.</note> nor the people bee enſna<g ref="char:EOLhyphen"/>red: Or if there be a further puniſhment due unto our ſinnes,<note place="margin">Job 34.30.</note> let us not forfeit a good conſcience, but know that theſe ca<g ref="char:EOLhyphen"/>lamities are puniſhments due unto our owne ſinnes, and not unto ſo juſt a cauſe as our Loyalty, and (if it ſhal yet ſo pleaſe God) further to afflict us in the purſuance of that, make <hi>Mauritius</hi> the Emperour his choice (though with the ſame puniſhment, the extirpation of himſelfe and his poſterity;) <hi>Potius hic Domine quam ibi;</hi>
+               <note place="margin">1 Chro. 19.13.</note> Lord let us rather be puniſhed here then hereafter, much rather temporally then eternally. I conclude with theſe divine <hi>adviſoes</hi> unto all Loyall Subjects: Firſt that in theſe publique calamities which require humilia<g ref="char:EOLhyphen"/>tion,
+<pb n="40" facs="tcp:115761:24"/>they fiſh not in troubled waters or ſeeke great things for themſelves, but acknowledge Gods mercy, in that hee hath given their lives unto them for a pray: (in ſtead of all the ambitious ends their fancies embraced in theſe broyles:<note place="margin">Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 45 5.</note>) Next that like that true mother they would ſave the life of the con<g ref="char:EOLhyphen"/>troverted Childe, which is living, not to diſpute whoſe is the dead, but labour to compoſe (what in them lyes) the pre<g ref="char:EOLhyphen"/>ſent unhappy occaſions of differences and diſtempers,<note place="margin">1. Kings 3.</note> (with<g ref="char:EOLhyphen"/>out relation unto former) and piouſly and paſſionately en<g ref="char:EOLhyphen"/>deavour to beget unity and concord, to preſerve what is living of the three bleeding Kingdomes from enſuing deſtruction: Laſtly, that by true and unfained repentance in amendment of life, they would take off from the generall Talley of their ſinnes, which ſcore up ſo many evils of puniſhments againſt them, that we ceaſing from the evils of our ſinnes, God may ſurceaſe the evils of our puniſhments. Which God through his infinite mercy effect by the power of his holy Spirit in us all, and let all true hearted Engliſh men ſay, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
